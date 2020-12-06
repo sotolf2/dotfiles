@@ -145,3 +145,5 @@ config.bind('xx', 'config-cycle statusbar.show always never;; config-cycle tabs.
 
 config.bind('M', 'hint links spawn mpv {hint-url}')
 config.bind('Z', 'hint links spawn alacritty -e youtube-dl {hint-url}')
+config.bind('<Ctrl-Tab>', 'tab-next')
+config.bind('<Ctrl-Shift-Tab>', 'tab-prev')
