@@ -60,6 +60,9 @@ keys = [
              desc='Move down a section in treetab'
              ),
          ### Window controls
+         
+         # Rebinding some keys here to be less uncomfortable
+         # with colemak
          Key([mod], "n",
              lazy.layout.down(),
              desc='Move focus down in current stack pane'
