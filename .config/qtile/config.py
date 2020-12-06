@@ -175,14 +175,14 @@ colors = [["#282828", "#282828"], # panel background
           ["#ff5555", "#ff5555"], # border line color for current tab
           ["#689d6a", "#689d6a"], # border line color for other tab and odd widgets
           ["#458588", "#458588"], # color for the even widgets
-          ["#d3869b", "#d3869b"]] # window name
+          ["#bdae93", "#bdae93"]] # window name
 
 prompt = "{0}@{1}: ".format(os.environ["USER"], socket.gethostname())
 
 ##### DEFAULT WIDGET SETTINGS #####
 widget_defaults = dict(
-    font="Ubuntu Mono",
-    fontsize = 12,
+    font="Meslo",
+    fontsize = 9,
     padding = 2,
     background=colors[2]
 )
