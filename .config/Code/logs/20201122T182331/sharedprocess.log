@@ -1,0 +1,3 @@
+[2020-11-22 18:23:35.978] [sharedprocess] [info] main {"machineId":"aeefb5c4090301e1dc4f90465e498dc20a38d47dd5dc066cebcf2647ba284e50","windowId":2}
+[2020-11-22 18:23:36.042] [sharedprocess] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/torerling/.config/Code/User/snippets'
+[2020-11-22 18:24:16.004] [sharedprocess] [info] Starting to clean up unused language packs.

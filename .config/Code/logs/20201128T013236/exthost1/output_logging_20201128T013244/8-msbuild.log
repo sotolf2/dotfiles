@@ -1,0 +1,3 @@
+[01:32:46 INFO ] Dotnet CLI (.NET Core) found at /usr/bin/dotnet
+[01:32:46 INFO ] MSBuild (.NET) found at msbuild
+[01:32:46 INFO ] Automatic MSBuild detection

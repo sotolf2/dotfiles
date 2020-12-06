@@ -1,0 +1,14 @@
+[2020-12-06 09:23:34.529] [sharedprocess] [info] main {"machineId":"aeefb5c4090301e1dc4f90465e498dc20a38d47dd5dc066cebcf2647ba284e50","windowId":2}
+[2020-12-06 09:24:14.570] [sharedprocess] [info] Starting to clean up unused language packs.
+[2020-12-06 09:51:38.934] [sharedprocess] [info] Installing extension: 2gua.rainbow-brackets
+[2020-12-06 09:51:42.033] [sharedprocess] [info] Downloaded extension: 2gua.rainbow-brackets undefined
+[2020-12-06 09:51:42.098] [sharedprocess] [info] Extracted extension to /home/torerling/.vscode/extensions/.2gua.rainbow-brackets-0.0.6: 2gua.rainbow-brackets
+[2020-12-06 09:51:42.098] [sharedprocess] [info] Renamed to /home/torerling/.vscode/extensions/2gua.rainbow-brackets-0.0.6
+[2020-12-06 09:51:42.099] [sharedprocess] [info] Installation completed. 2gua.rainbow-brackets
+[2020-12-06 09:51:42.114] [sharedprocess] [info] Extensions installed successfully: 2gua.rainbow-brackets
+[2020-12-06 10:46:42.426] [sharedprocess] [info] Installing extension: arcticicestudio.nord-visual-studio-code
+[2020-12-06 10:46:43.594] [sharedprocess] [info] Downloaded extension: arcticicestudio.nord-visual-studio-code undefined
+[2020-12-06 10:46:43.626] [sharedprocess] [info] Extracted extension to /home/torerling/.vscode/extensions/.arcticicestudio.nord-visual-studio-code-0.15.0: arcticicestudio.nord-visual-studio-code
+[2020-12-06 10:46:43.626] [sharedprocess] [info] Renamed to /home/torerling/.vscode/extensions/arcticicestudio.nord-visual-studio-code-0.15.0
+[2020-12-06 10:46:43.627] [sharedprocess] [info] Installation completed. arcticicestudio.nord-visual-studio-code
+[2020-12-06 10:46:43.641] [sharedprocess] [info] Extensions installed successfully: arcticicestudio.nord-visual-studio-code

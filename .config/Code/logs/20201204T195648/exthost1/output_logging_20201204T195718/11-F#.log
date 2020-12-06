@@ -1,0 +1,798 @@
+[Error - 7:57:18 PM] Request textDocument/codeAction failed.
+  Message: File '/home/torerling/programming/aoc2020/day1.fsx' not parsed
+  Code: -32603 
+[Error - 7:57:19 PM] Request textDocument/documentHighlight failed.
+  Message: Cached typecheck results not yet available
+  Code: -32603 
+[Error - 7:58:04 PM] Request textDocument/documentHighlight failed.
+  Message: Cached typecheck results not yet available
+  Code: -32603 
+[Error - 7:58:11 PM] Request textDocument/documentHighlight failed.
+  Message: Cached typecheck results not yet available
+  Code: -32603 
+[Error - 11:13:49 PM] Request textDocument/hover failed.
+  Message: No tooltip information
+  Code: -32603 
+[Error - 11:14:02 PM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 11:14:10 PM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 11:14:16 PM] Request textDocument/documentHighlight failed.
+  Message: Position is out of range
+  Code: -32603 
+[23:14:16.877 ERR] [LSP] PositionHandler - Getting file checker options for /home/torerling/programming/aoc2020/day5.fsx failed
+[Error - 11:14:19 PM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 11:14:20 PM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 11:14:20 PM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 11:14:21 PM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 11:14:21 PM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 11:14:21 PM] Request textDocument/documentHighlight failed.
+  Message: No ident at this location
+  Code: -32603 
+[Error - 11:14:21 PM] Request textDocument/documentHighlight failed.
+  Message: No ident at this location
+  Code: -32603 
+[Error - 11:14:21 PM] Request textDocument/documentHighlight failed.
+  Message: No ident at this location
+  Code: -32603 
+[Error - 11:14:21 PM] Request textDocument/documentHighlight failed.
+  Message: No ident at this location
+  Code: -32603 
+[Error - 11:14:23 PM] Request textDocument/documentHighlight failed.
+  Message: No ident at this location
+  Code: -32603 
+[Error - 11:14:25 PM] Request textDocument/documentHighlight failed.
+  Message: No ident at this location
+  Code: -32603 
+[Error - 11:14:25 PM] Request textDocument/documentHighlight failed.
+  Message: No ident at this location
+  Code: -32603 
+[23:14:31.812 ERR] [LSP] PositionHandler - Getting file checker options for /home/torerling/programming/aoc2020/day5.fsx failed
+[Error - 11:14:31 PM] Request textDocument/documentHighlight failed.
+  Message: Position is out of range
+  Code: -32603 
+[23:14:33.408 ERR] [LSP] PositionHandler - Getting file checker options for /home/torerling/programming/aoc2020/day5.fsx failed
+[Error - 11:14:33 PM] Request textDocument/documentHighlight failed.
+  Message: Position is out of range
+  Code: -32603 
+[Error - 11:14:33 PM] Request textDocument/documentHighlight failed.
+  Message: No ident at this location
+  Code: -32603 
+[Error - 11:14:33 PM] Request textDocument/documentHighlight failed.
+  Message: No ident at this location
+  Code: -32603 
+[Error - 11:14:33 PM] Request textDocument/documentHighlight failed.
+  Message: No ident at this location
+  Code: -32603 
+[Error - 11:14:34 PM] Request textDocument/documentHighlight failed.
+  Message: No ident at this location
+  Code: -32603 
+[Error - 11:14:36 PM] Request textDocument/documentHighlight failed.
+  Message: No ident at this location
+  Code: -32603 
+[Error - 11:14:41 PM] Request textDocument/documentHighlight failed.
+  Message: No ident at this location
+  Code: -32603 
+[Error - 11:14:41 PM] Request textDocument/documentHighlight failed.
+  Message: No ident at this location
+  Code: -32603 
+[Error - 11:14:41 PM] Request textDocument/documentHighlight failed.
+  Message: No ident at this location
+  Code: -32603 
+[Error - 11:14:42 PM] Request textDocument/documentHighlight failed.
+  Message: No ident at this location
+  Code: -32603 
+[Error - 11:14:42 PM] Request textDocument/documentHighlight failed.
+  Message: No ident at this location
+  Code: -32603 
+[Error - 11:14:42 PM] Request textDocument/documentHighlight failed.
+  Message: No ident at this location
+  Code: -32603 
+[Error - 11:14:43 PM] Request textDocument/documentHighlight failed.
+  Message: No ident at this location
+  Code: -32603 
+[Error - 11:14:48 PM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 11:14:48 PM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 11:14:48 PM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 11:14:48 PM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 11:14:49 PM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[23:14:49.187 ERR] [LSP] PositionHandler - Getting file checker options for /home/torerling/programming/aoc2020/day5.fsx failed
+[Error - 11:14:49 PM] Request textDocument/documentHighlight failed.
+  Message: Position is out of range
+  Code: -32603 
+[Error - 11:14:49 PM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 11:14:49 PM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 11:14:51 PM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 11:14:51 PM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 11:14:51 PM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 11:14:52 PM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 11:14:52 PM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 11:14:52 PM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 11:14:52 PM] Request textDocument/documentHighlight failed.
+  Message: Position is out of range
+  Code: -32603 
+[23:14:52.750 ERR] [LSP] PositionHandler - Getting file checker options for /home/torerling/programming/aoc2020/day5.fsx failed
+[Error - 11:14:53 PM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 11:14:53 PM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[23:14:54.000 ERR] [LSP] PositionHandler - Getting file checker options for /home/torerling/programming/aoc2020/day5.fsx failed
+[Error - 11:14:54 PM] Request textDocument/documentHighlight failed.
+  Message: Position is out of range
+  Code: -32603 
+[Error - 11:14:54 PM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 11:14:54 PM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 11:14:54 PM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 11:14:55 PM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[23:14:58.015 ERR] [LSP] PositionHandler - Getting file checker options for /home/torerling/programming/aoc2020/day5.fsx failed
+[Error - 11:14:58 PM] Request textDocument/documentHighlight failed.
+  Message: Position is out of range
+  Code: -32603 
+[Error - 11:14:58 PM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[23:14:58.310 ERR] [LSP] PositionHandler - Getting file checker options for /home/torerling/programming/aoc2020/day5.fsx failed
+[Error - 11:14:58 PM] Request textDocument/documentHighlight failed.
+  Message: Position is out of range
+  Code: -32603 
+[Error - 11:14:58 PM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 11:14:58 PM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 11:15:01 PM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 11:15:03 PM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 11:15:03 PM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 11:15:03 PM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 11:15:04 PM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 11:15:04 PM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[23:15:04.861 ERR] [LSP] PositionHandler - Getting file checker options for /home/torerling/programming/aoc2020/day5.fsx failed
+[Error - 11:15:04 PM] Request textDocument/documentHighlight failed.
+  Message: Position is out of range
+  Code: -32603 
+[Error - 11:15:04 PM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 11:15:05 PM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 11:15:06 PM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 11:15:06 PM] Request textDocument/completion failed.
+  Message: System.ArgumentOutOfRangeException: Index and length must refer to a location within the string. (Parameter 'length')
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at FsAutoComplete.Lsp.TextDocumentCompletion@659.Invoke(Unit unitVar) in D:\Programowanie\ionide\paket-files\github.com\fsharp\FsAutoComplete\src\FsAutoComplete\FsAutoComplete.Lsp.fs:line 672
+   at Microsoft.FSharp.Control.AsyncPrimitives.CallThenInvoke[T,TResult](AsyncActivation`1 ctxt, TResult result1, FSharpFunc`2 part2) in F:\workspace\_work\1\s\src\fsharp\FSharp.Core\async.fs:line 398
+   at Microsoft.FSharp.Control.Trampoline.Execute(FSharpFunc`2 firstAction) in F:\workspace\_work\1\s\src\fsharp\FSharp.Core\async.fs:line 109
+  Code: -32603 
+[Error - 11:15:06 PM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 11:15:07 PM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 11:15:07 PM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 11:15:07 PM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 11:15:07 PM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 11:15:08 PM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 11:15:10 PM] Request textDocument/documentHighlight failed.
+  Message: No ident at this location
+  Code: -32603 
+[Error - 11:15:11 PM] Request textDocument/documentHighlight failed.
+  Message: No ident at this location
+  Code: -32603 
+[Error - 11:15:12 PM] Request textDocument/documentHighlight failed.
+  Message: No ident at this location
+  Code: -32603 
+[Error - 11:15:12 PM] Request textDocument/documentHighlight failed.
+  Message: No ident at this location
+  Code: -32603 
+[Error - 11:15:12 PM] Request textDocument/documentHighlight failed.
+  Message: No ident at this location
+  Code: -32603 
+[Error - 11:15:12 PM] Request textDocument/documentHighlight failed.
+  Message: No ident at this location
+  Code: -32603 
+[Error - 11:15:13 PM] Request textDocument/documentHighlight failed.
+  Message: No ident at this location
+  Code: -32603 
+[Error - 11:15:13 PM] Request textDocument/documentHighlight failed.
+  Message: No ident at this location
+  Code: -32603 
+[Error - 11:15:13 PM] Request textDocument/documentHighlight failed.
+  Message: No ident at this location
+  Code: -32603 
+[Error - 11:15:13 PM] Request textDocument/documentHighlight failed.
+  Message: No ident at this location
+  Code: -32603 
+[Error - 11:15:14 PM] Request textDocument/documentHighlight failed.
+  Message: No ident at this location
+  Code: -32603 
+[Error - 11:15:14 PM] Request textDocument/documentHighlight failed.
+  Message: No ident at this location
+  Code: -32603 
+[Error - 11:15:15 PM] Request textDocument/documentHighlight failed.
+  Message: No ident at this location
+  Code: -32603 
+[Error - 11:15:31 PM] Request textDocument/hover failed.
+  Message: Cannot find ident for tooltip
+  Code: -32603 
+[Error - 9:29:09 AM] Request textDocument/documentHighlight failed.
+  Message: No ident at this location
+  Code: -32603 
+[Error - 9:31:40 AM] Request textDocument/documentHighlight failed.
+  Message: No ident at this location
+  Code: -32603 
+[Error - 9:31:41 AM] Request textDocument/documentHighlight failed.
+  Message: No ident at this location
+  Code: -32603 
+[Error - 9:31:42 AM] Request textDocument/documentHighlight failed.
+  Message: No ident at this location
+  Code: -32603 
+[Error - 9:31:43 AM] Request textDocument/documentHighlight failed.
+  Message: No ident at this location
+  Code: -32603 
+[Error - 9:31:43 AM] Request textDocument/documentHighlight failed.
+  Message: No ident at this location
+  Code: -32603 
+[Error - 9:31:43 AM] Request textDocument/documentHighlight failed.
+  Message: No ident at this location
+  Code: -32603 
+[Error - 9:31:44 AM] Request textDocument/documentHighlight failed.
+  Message: No ident at this location
+  Code: -32603 
+[Error - 9:31:45 AM] Request textDocument/documentHighlight failed.
+  Message: No ident at this location
+  Code: -32603 
+[Error - 9:31:45 AM] Request textDocument/documentHighlight failed.
+  Message: No ident at this location
+  Code: -32603 
+[Error - 9:31:46 AM] Request textDocument/documentHighlight failed.
+  Message: No ident at this location
+  Code: -32603 
+[Error - 9:31:46 AM] Request textDocument/documentHighlight failed.
+  Message: No ident at this location
+  Code: -32603 
+[Error - 9:31:46 AM] Request textDocument/documentHighlight failed.
+  Message: No ident at this location
+  Code: -32603 
+[Error - 9:31:46 AM] Request textDocument/documentHighlight failed.
+  Message: No ident at this location
+  Code: -32603 
+[Error - 9:31:46 AM] Request textDocument/documentHighlight failed.
+  Message: No ident at this location
+  Code: -32603 
+[Error - 9:31:46 AM] Request textDocument/documentHighlight failed.
+  Message: No ident at this location
+  Code: -32603 
+[Error - 9:31:46 AM] Request textDocument/documentHighlight failed.
+  Message: No ident at this location
+  Code: -32603 
+[Error - 9:31:47 AM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 9:31:47 AM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 9:31:47 AM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 9:31:47 AM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 9:31:48 AM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 9:31:48 AM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 9:31:48 AM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 9:31:57 AM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 9:31:57 AM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 9:31:57 AM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 9:31:58 AM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 9:32:30 AM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 9:32:30 AM] Request textDocument/documentHighlight failed.
+  Message: Position is out of range
+  Code: -32603 
+[09:32:30.488 ERR] [LSP] PositionHandler - Getting file checker options for /home/torerling/programming/aoc2020/day5.fsx failed
+[Error - 9:32:31 AM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 9:32:31 AM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 9:32:31 AM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 9:32:32 AM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 9:32:32 AM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 9:32:33 AM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 9:32:35 AM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 9:32:35 AM] Request textDocument/completion failed.
+  Message: System.ArgumentOutOfRangeException: Index and length must refer to a location within the string. (Parameter 'length')
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at FsAutoComplete.Lsp.TextDocumentCompletion@659.Invoke(Unit unitVar) in D:\Programowanie\ionide\paket-files\github.com\fsharp\FsAutoComplete\src\FsAutoComplete\FsAutoComplete.Lsp.fs:line 672
+   at Microsoft.FSharp.Control.AsyncPrimitives.CallThenInvoke[T,TResult](AsyncActivation`1 ctxt, TResult result1, FSharpFunc`2 part2) in F:\workspace\_work\1\s\src\fsharp\FSharp.Core\async.fs:line 398
+   at Microsoft.FSharp.Control.Trampoline.Execute(FSharpFunc`2 firstAction) in F:\workspace\_work\1\s\src\fsharp\FSharp.Core\async.fs:line 109
+  Code: -32603 
+[Error - 9:32:35 AM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 9:32:36 AM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 9:32:36 AM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 9:32:36 AM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[09:32:37.050 ERR] [LSP] PositionHandler - Getting file checker options for /home/torerling/programming/aoc2020/day5.fsx failed
+[Error - 9:32:37 AM] Request textDocument/documentHighlight failed.
+  Message: Position is out of range
+  Code: -32603 
+[Error - 9:32:37 AM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 9:32:37 AM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 9:32:37 AM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 9:32:38 AM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 9:32:39 AM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 9:32:39 AM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 9:32:39 AM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 9:32:40 AM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 9:32:40 AM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 9:32:40 AM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 9:32:40 AM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 9:32:40 AM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 9:32:40 AM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 9:32:40 AM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 9:32:40 AM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 9:32:40 AM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 9:32:40 AM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 9:32:41 AM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 9:32:41 AM] Request textDocument/codeAction failed.
+  Message: System.ArgumentOutOfRangeException: Index and length must refer to a location within the string. (Parameter 'length')
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at FsAutoComplete.LspHelpers.Conversions.getText(String[] lines, Range r) in D:\Programowanie\ionide\paket-files\github.com\fsharp\FsAutoComplete\src\FsAutoComplete\LspHelpers.fs:line 155
+   at FsAutoComplete.Lsp.GetUnusedCodeAction@1181.Invoke(Diagnostic d) in D:\Programowanie\ionide\paket-files\github.com\fsharp\FsAutoComplete\src\FsAutoComplete\FsAutoComplete.Lsp.fs:line 1185
+   at FsAutoComplete.Lsp.TextDocumentCodeAction@1441-4.Invoke(FSharpList`1 _arg41) in D:\Programowanie\ionide\paket-files\github.com\fsharp\FsAutoComplete\src\FsAutoComplete\FsAutoComplete.Lsp.fs:line 1441
+   at Microsoft.FSharp.Control.AsyncPrimitives.CallThenInvokeNoHijackCheck[a,b](AsyncActivation`1 ctxt, FSharpFunc`2 userCode, b result1) in F:\workspace\_work\1\s\src\fsharp\FSharp.Core\async.fs:line 417
+   at FsAutoComplete.Lsp.IfDiagnostic@1109.Invoke(AsyncActivation`1 ctxt) in D:\Programowanie\ionide\paket-files\github.com\fsharp\FsAutoComplete\src\FsAutoComplete\FsAutoComplete.Lsp.fs:line 1109
+   at FsAutoComplete.Lsp.IfDiagnostic@1109.Invoke(AsyncActivation`1 ctxt) in D:\Programowanie\ionide\paket-files\github.com\fsharp\FsAutoComplete\src\FsAutoComplete\FsAutoComplete.Lsp.fs:line 1109
+   at FsAutoComplete.Lsp.IfDiagnostic@1109.Invoke(AsyncActivation`1 ctxt) in D:\Programowanie\ionide\paket-files\github.com\fsharp\FsAutoComplete\src\FsAutoComplete\FsAutoComplete.Lsp.fs:line 1109
+   at Microsoft.FSharp.Control.Trampoline.Execute(FSharpFunc`2 firstAction) in F:\workspace\_work\1\s\src\fsharp\FSharp.Core\async.fs:line 109
+  Code: -32603 
+[Error - 9:32:43 AM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 9:32:43 AM] Request textDocument/codeAction failed.
+  Message: System.ArgumentOutOfRangeException: Index and length must refer to a location within the string. (Parameter 'length')
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at FsAutoComplete.LspHelpers.Conversions.getText(String[] lines, Range r) in D:\Programowanie\ionide\paket-files\github.com\fsharp\FsAutoComplete\src\FsAutoComplete\LspHelpers.fs:line 155
+   at FsAutoComplete.Lsp.GetUnusedCodeAction@1181.Invoke(Diagnostic d) in D:\Programowanie\ionide\paket-files\github.com\fsharp\FsAutoComplete\src\FsAutoComplete\FsAutoComplete.Lsp.fs:line 1185
+   at FsAutoComplete.Lsp.TextDocumentCodeAction@1441-4.Invoke(FSharpList`1 _arg41) in D:\Programowanie\ionide\paket-files\github.com\fsharp\FsAutoComplete\src\FsAutoComplete\FsAutoComplete.Lsp.fs:line 1441
+   at Microsoft.FSharp.Control.AsyncPrimitives.CallThenInvokeNoHijackCheck[a,b](AsyncActivation`1 ctxt, FSharpFunc`2 userCode, b result1) in F:\workspace\_work\1\s\src\fsharp\FSharp.Core\async.fs:line 417
+   at FsAutoComplete.Lsp.IfDiagnostic@1109.Invoke(AsyncActivation`1 ctxt) in D:\Programowanie\ionide\paket-files\github.com\fsharp\FsAutoComplete\src\FsAutoComplete\FsAutoComplete.Lsp.fs:line 1109
+   at FsAutoComplete.Lsp.IfDiagnostic@1109.Invoke(AsyncActivation`1 ctxt) in D:\Programowanie\ionide\paket-files\github.com\fsharp\FsAutoComplete\src\FsAutoComplete\FsAutoComplete.Lsp.fs:line 1109
+   at FsAutoComplete.Lsp.IfDiagnostic@1109.Invoke(AsyncActivation`1 ctxt) in D:\Programowanie\ionide\paket-files\github.com\fsharp\FsAutoComplete\src\FsAutoComplete\FsAutoComplete.Lsp.fs:line 1109
+   at Microsoft.FSharp.Control.Trampoline.Execute(FSharpFunc`2 firstAction) in F:\workspace\_work\1\s\src\fsharp\FSharp.Core\async.fs:line 109
+  Code: -32603 
+[Error - 9:32:44 AM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 9:32:44 AM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 9:32:45 AM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 9:32:45 AM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 9:32:45 AM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 9:32:45 AM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 9:32:47 AM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 9:32:48 AM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 9:32:48 AM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 9:32:49 AM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 9:32:57 AM] Request textDocument/documentHighlight failed.
+  Message: No ident at this location
+  Code: -32603 
+[Error - 9:32:58 AM] Request textDocument/documentHighlight failed.
+  Message: No ident at this location
+  Code: -32603 
+[Error - 9:32:58 AM] Request textDocument/documentHighlight failed.
+  Message: No ident at this location
+  Code: -32603 
+[Error - 9:32:58 AM] Request textDocument/documentHighlight failed.
+  Message: No ident at this location
+  Code: -32603 
+[Error - 9:32:58 AM] Request textDocument/documentHighlight failed.
+  Message: No ident at this location
+  Code: -32603 
+[Error - 9:32:58 AM] Request textDocument/documentHighlight failed.
+  Message: No ident at this location
+  Code: -32603 
+[Error - 9:33:10 AM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 9:33:52 AM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 9:33:52 AM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 9:33:52 AM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 9:33:52 AM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 9:33:53 AM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 9:33:53 AM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 9:33:53 AM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 9:33:54 AM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 9:33:54 AM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 9:33:58 AM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 9:33:58 AM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 9:33:58 AM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 9:34:00 AM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 9:34:05 AM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 9:34:05 AM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 9:34:06 AM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 9:34:11 AM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 9:34:11 AM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 9:34:29 AM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 9:34:29 AM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 9:34:30 AM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 9:34:30 AM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 9:34:31 AM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 9:34:31 AM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 9:34:32 AM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 9:34:32 AM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 9:34:38 AM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 9:34:42 AM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 9:34:42 AM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 9:34:43 AM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 9:34:44 AM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 9:34:44 AM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 9:34:45 AM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 9:34:48 AM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 9:34:48 AM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 9:34:48 AM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 9:34:49 AM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 9:34:49 AM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 9:34:49 AM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 9:34:50 AM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[09:34:52.741 ERR] [LSP] PositionHandler - Getting file checker options for /home/torerling/programming/aoc2020/day5.fsx failed
+[Error - 9:34:52 AM] Request textDocument/documentHighlight failed.
+  Message: Position is out of range
+  Code: -32603 
+[Error - 9:34:52 AM] Request textDocument/completion failed.
+  Message: System.ArgumentOutOfRangeException: Index and length must refer to a location within the string. (Parameter 'length')
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at FsAutoComplete.Lsp.TextDocumentCompletion@659.Invoke(Unit unitVar) in D:\Programowanie\ionide\paket-files\github.com\fsharp\FsAutoComplete\src\FsAutoComplete\FsAutoComplete.Lsp.fs:line 672
+   at Microsoft.FSharp.Control.AsyncPrimitives.CallThenInvoke[T,TResult](AsyncActivation`1 ctxt, TResult result1, FSharpFunc`2 part2) in F:\workspace\_work\1\s\src\fsharp\FSharp.Core\async.fs:line 398
+   at Microsoft.FSharp.Control.Trampoline.Execute(FSharpFunc`2 firstAction) in F:\workspace\_work\1\s\src\fsharp\FSharp.Core\async.fs:line 109
+  Code: -32603 
+[Error - 9:34:55 AM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 9:34:56 AM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 9:34:57 AM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 9:34:57 AM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 9:34:57 AM] Request textDocument/documentHighlight failed.
+  Message: No ident at this location
+  Code: -32603 
+[Error - 9:34:57 AM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 9:34:58 AM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 9:34:58 AM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 9:35:01 AM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 9:35:04 AM] Request textDocument/signatureHelp failed.
+  Message: Could not find parameter locations
+  Code: -32603 
+[Error - 9:35:09 AM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 9:35:09 AM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 9:35:09 AM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 9:35:10 AM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 9:35:11 AM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 9:35:12 AM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 9:35:12 AM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 9:35:21 AM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 9:35:22 AM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 9:35:22 AM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 9:35:22 AM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 9:35:23 AM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 9:35:23 AM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 9:35:23 AM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 9:35:23 AM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 9:35:23 AM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 9:35:23 AM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 9:35:24 AM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 9:35:24 AM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 9:35:24 AM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 9:35:24 AM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 9:35:24 AM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 9:35:24 AM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 9:35:25 AM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 9:35:26 AM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 9:35:26 AM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 9:35:26 AM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 

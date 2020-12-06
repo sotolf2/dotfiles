@@ -1,0 +1,39 @@
+[2020-11-22 11:54:28.757] [sharedprocess] [info] main {"machineId":"aeefb5c4090301e1dc4f90465e498dc20a38d47dd5dc066cebcf2647ba284e50","windowId":2}
+[2020-11-22 11:54:28.842] [sharedprocess] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/torerling/.config/Code/User/snippets'
+[2020-11-22 11:54:45.794] [sharedprocess] [info] Installing extension: ionide.ionide-fsharp
+[2020-11-22 11:54:57.119] [sharedprocess] [info] Installing extension: ms-python.python
+[2020-11-22 11:55:04.796] [sharedprocess] [info] Installing extension: rust-lang.rust
+[2020-11-22 11:55:06.377] [sharedprocess] [info] Downloaded extension: rust-lang.rust undefined
+[2020-11-22 11:55:06.833] [sharedprocess] [info] Extracted extension to /home/torerling/.vscode/extensions/.rust-lang.rust-0.7.8: rust-lang.rust
+[2020-11-22 11:55:06.833] [sharedprocess] [info] Renamed to /home/torerling/.vscode/extensions/rust-lang.rust-0.7.8
+[2020-11-22 11:55:06.839] [sharedprocess] [info] Installation completed. rust-lang.rust
+[2020-11-22 11:55:06.869] [sharedprocess] [info] Extensions installed successfully: rust-lang.rust
+[2020-11-22 11:55:08.794] [sharedprocess] [info] Starting to clean up unused language packs.
+[2020-11-22 11:55:13.095] [sharedprocess] [info] Downloaded extension: ms-python.python undefined
+[2020-11-22 11:55:18.676] [sharedprocess] [info] Downloaded extension: ionide.ionide-fsharp undefined
+[2020-11-22 11:55:24.631] [sharedprocess] [info] Extracted extension to /home/torerling/.vscode/extensions/.ms-python.python-2020.11.371526539: ms-python.python
+[2020-11-22 11:55:24.632] [sharedprocess] [info] Renamed to /home/torerling/.vscode/extensions/ms-python.python-2020.11.371526539
+[2020-11-22 11:55:24.638] [sharedprocess] [info] Installation completed. ms-python.python
+[2020-11-22 11:55:24.839] [sharedprocess] [info] Extracted extension to /home/torerling/.vscode/extensions/.ionide.ionide-fsharp-4.17.0: ionide.ionide-fsharp
+[2020-11-22 11:55:24.841] [sharedprocess] [info] Renamed to /home/torerling/.vscode/extensions/ionide.ionide-fsharp-4.17.0
+[2020-11-22 11:55:24.854] [sharedprocess] [info] Installation completed. ionide.ionide-fsharp
+[2020-11-22 11:55:25.068] [sharedprocess] [info] Installing extension: ms-toolsai.jupyter
+[2020-11-22 11:55:25.098] [sharedprocess] [info] Installing extension: ms-dotnettools.csharp
+[2020-11-22 11:55:26.425] [sharedprocess] [info] Downloaded extension: ms-dotnettools.csharp undefined
+[2020-11-22 11:55:26.534] [sharedprocess] [info] Extracted extension to /home/torerling/.vscode/extensions/.ms-dotnettools.csharp-1.23.6: ms-dotnettools.csharp
+[2020-11-22 11:55:26.534] [sharedprocess] [info] Renamed to /home/torerling/.vscode/extensions/ms-dotnettools.csharp-1.23.6
+[2020-11-22 11:55:26.545] [sharedprocess] [info] Installation completed. ms-dotnettools.csharp
+[2020-11-22 11:55:26.559] [sharedprocess] [info] Extensions installed successfully: ms-dotnettools.csharp
+[2020-11-22 11:55:26.566] [sharedprocess] [info] Extensions installed successfully: ionide.ionide-fsharp
+[2020-11-22 11:55:30.908] [sharedprocess] [info] Installing extension: sainnhe.gruvbox-material
+[2020-11-22 11:55:34.044] [sharedprocess] [info] Downloaded extension: sainnhe.gruvbox-material undefined
+[2020-11-22 11:55:34.310] [sharedprocess] [info] Extracted extension to /home/torerling/.vscode/extensions/.sainnhe.gruvbox-material-6.3.4: sainnhe.gruvbox-material
+[2020-11-22 11:55:34.310] [sharedprocess] [info] Renamed to /home/torerling/.vscode/extensions/sainnhe.gruvbox-material-6.3.4
+[2020-11-22 11:55:34.312] [sharedprocess] [info] Installation completed. sainnhe.gruvbox-material
+[2020-11-22 11:55:34.328] [sharedprocess] [info] Extensions installed successfully: sainnhe.gruvbox-material
+[2020-11-22 11:55:40.756] [sharedprocess] [info] Downloaded extension: ms-toolsai.jupyter undefined
+[2020-11-22 11:55:42.214] [sharedprocess] [info] Extracted extension to /home/torerling/.vscode/extensions/.ms-toolsai.jupyter-2020.11.372831992: ms-toolsai.jupyter
+[2020-11-22 11:55:42.214] [sharedprocess] [info] Renamed to /home/torerling/.vscode/extensions/ms-toolsai.jupyter-2020.11.372831992
+[2020-11-22 11:55:42.218] [sharedprocess] [info] Installation completed. ms-toolsai.jupyter
+[2020-11-22 11:55:42.320] [sharedprocess] [info] Extensions installed successfully: ms-toolsai.jupyter
+[2020-11-22 11:55:42.322] [sharedprocess] [info] Extensions installed successfully: ms-python.python

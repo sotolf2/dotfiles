@@ -1,0 +1,18 @@
+[Error - 6:50:48 PM] Request textDocument/hover failed.
+  Message: Cached typecheck results not yet available
+  Code: -32603 
+[Error - 6:50:49 PM] Request textDocument/hover failed.
+  Message: Cached typecheck results not yet available
+  Code: -32603 
+[Error - 6:50:52 PM] Request textDocument/hover failed.
+  Message: No tooltip information
+  Code: -32603 
+[Error - 6:50:53 PM] Request textDocument/hover failed.
+  Message: Cannot find ident for tooltip
+  Code: -32603 
+[Error - 6:50:55 PM] Request textDocument/hover failed.
+  Message: Cannot find ident for tooltip
+  Code: -32603 
+[Error - 6:51:33 PM] Request textDocument/hover failed.
+  Message: No tooltip information
+  Code: -32603 

@@ -1,0 +1,8 @@
+[2020-11-27 20:19:20.470] [sharedprocess] [info] main {"machineId":"aeefb5c4090301e1dc4f90465e498dc20a38d47dd5dc066cebcf2647ba284e50","windowId":2}
+[2020-11-27 20:20:00.504] [sharedprocess] [info] Starting to clean up unused language packs.
+[2020-11-27 20:20:13.714] [sharedprocess] [info] Installing extension: jdinhlife.gruvbox
+[2020-11-27 20:20:15.510] [sharedprocess] [info] Downloaded extension: jdinhlife.gruvbox undefined
+[2020-11-27 20:20:15.703] [sharedprocess] [info] Extracted extension to /home/torerling/.vscode/extensions/.jdinhlife.gruvbox-1.4.0: jdinhlife.gruvbox
+[2020-11-27 20:20:15.704] [sharedprocess] [info] Renamed to /home/torerling/.vscode/extensions/jdinhlife.gruvbox-1.4.0
+[2020-11-27 20:20:15.704] [sharedprocess] [info] Installation completed. jdinhlife.gruvbox
+[2020-11-27 20:20:15.730] [sharedprocess] [info] Extensions installed successfully: jdinhlife.gruvbox

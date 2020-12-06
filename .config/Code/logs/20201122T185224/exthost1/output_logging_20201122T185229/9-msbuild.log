@@ -1,0 +1,9 @@
+[18:52:31 INFO ] Dotnet CLI (.NET Core) found at /usr/bin/dotnet
+[18:52:31 INFO ] MSBuild (.NET) found at msbuild
+[18:52:31 INFO ] Automatic MSBuild detection
+[18:52:34 INFO ] invoking msbuild from /usr/bin/dotnet on "/home/torerling/exercism/fsharp/ledger/Ledger.fsproj" for target Restore
+Microsoft (R) Build Engine version 16.4.0+e901037fe for .NET Core
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Restore completed in 798.69 ms for /home/torerling/exercism/fsharp/ledger/Ledger.fsproj.
+[20:32:02 INFO ] Automatic MSBuild detection

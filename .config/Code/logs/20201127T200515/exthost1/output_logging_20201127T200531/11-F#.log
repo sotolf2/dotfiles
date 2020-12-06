@@ -1,0 +1,681 @@
+[Error - 8:05:31 PM] Request textDocument/hover failed.
+  Message: Cached typecheck results not yet available
+  Code: -32603 
+[Error - 8:05:33 PM] Request textDocument/documentHighlight failed.
+  Message: Cached typecheck results not yet available
+  Code: -32603 
+[Error - 8:05:34 PM] Request textDocument/documentHighlight failed.
+  Message: Cached typecheck results not yet available
+  Code: -32603 
+[Error - 8:05:46 PM] Request textDocument/hover failed.
+  Message: Cannot find ident for tooltip
+  Code: -32603 
+[Error - 8:06:29 PM] Request textDocument/hover failed.
+  Message: Cannot find ident for tooltip
+  Code: -32603 
+[Error - 8:06:30 PM] Request textDocument/hover failed.
+  Message: Cannot find ident for tooltip
+  Code: -32603 
+[Error - 8:06:31 PM] Request textDocument/hover failed.
+  Message: Cannot find ident for tooltip
+  Code: -32603 
+[Error - 8:07:15 PM] Request textDocument/completion failed.
+  Message: System.ArgumentOutOfRangeException: Index and length must refer to a location within the string. (Parameter 'length')
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at FsAutoComplete.Lsp.TextDocumentCompletion@659.Invoke(Unit unitVar) in D:\Programowanie\ionide\paket-files\github.com\fsharp\FsAutoComplete\src\FsAutoComplete\FsAutoComplete.Lsp.fs:line 672
+   at Microsoft.FSharp.Control.AsyncPrimitives.CallThenInvoke[T,TResult](AsyncActivation`1 ctxt, TResult result1, FSharpFunc`2 part2) in F:\workspace\_work\1\s\src\fsharp\FSharp.Core\async.fs:line 398
+   at Microsoft.FSharp.Control.Trampoline.Execute(FSharpFunc`2 firstAction) in F:\workspace\_work\1\s\src\fsharp\FSharp.Core\async.fs:line 109
+  Code: -32603 
+[Error - 8:07:17 PM] Request textDocument/completion failed.
+  Message: System.ArgumentOutOfRangeException: Index and length must refer to a location within the string. (Parameter 'length')
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at FsAutoComplete.Lsp.TextDocumentCompletion@659.Invoke(Unit unitVar) in D:\Programowanie\ionide\paket-files\github.com\fsharp\FsAutoComplete\src\FsAutoComplete\FsAutoComplete.Lsp.fs:line 672
+   at Microsoft.FSharp.Control.AsyncPrimitives.CallThenInvoke[T,TResult](AsyncActivation`1 ctxt, TResult result1, FSharpFunc`2 part2) in F:\workspace\_work\1\s\src\fsharp\FSharp.Core\async.fs:line 398
+   at Microsoft.FSharp.Control.Trampoline.Execute(FSharpFunc`2 firstAction) in F:\workspace\_work\1\s\src\fsharp\FSharp.Core\async.fs:line 109
+  Code: -32603 
+[20:07:25.796 ERR] [LSP] PositionHandler - Getting file checker options for /home/torerling/exercism/fsharp/list-ops/ListOps.fs failed
+[20:07:25.794 ERR] [LSP] PositionHandler - Getting file checker options for /home/torerling/exercism/fsharp/list-ops/ListOps.fs failed
+[Error - 8:07:29 PM] Request textDocument/hover failed.
+  Message: Cannot find ident for tooltip
+  Code: -32603 
+[Error - 8:07:30 PM] Request textDocument/hover failed.
+  Message: Cannot find ident for tooltip
+  Code: -32603 
+[20:08:40.238 ERR] [LSP] PositionHandler - Getting file checker options for /home/torerling/exercism/fsharp/list-ops/ListOps.fs failed
+[20:08:40.239 ERR] [LSP] PositionHandler - Getting file checker options for /home/torerling/exercism/fsharp/list-ops/ListOps.fs failed
+[Error - 8:08:53 PM] Request textDocument/signatureHelp failed.
+  Message: Could not find parameter locations
+  Code: -32603 
+[Error - 8:08:55 PM] Request textDocument/signatureHelp failed.
+  Message: Could not find parameter locations
+  Code: -32603 
+[Error - 8:08:55 PM] Request textDocument/signatureHelp failed.
+  Message: Could not find parameter locations
+  Code: -32603 
+[Error - 8:08:55 PM] Request textDocument/signatureHelp failed.
+  Message: Could not find parameter locations
+  Code: -32603 
+[Error - 8:08:55 PM] Request textDocument/signatureHelp failed.
+  Message: Could not find parameter locations
+  Code: -32603 
+[Error - 8:08:55 PM] Request textDocument/signatureHelp failed.
+  Message: Could not find parameter locations
+  Code: -32603 
+[Error - 8:08:55 PM] Request textDocument/signatureHelp failed.
+  Message: Could not find parameter locations
+  Code: -32603 
+[Error - 8:09:08 PM] Request textDocument/signatureHelp failed.
+  Message: Could not find parameter locations
+  Code: -32603 
+[Error - 8:09:11 PM] Request textDocument/completion failed.
+  Message: System.ArgumentOutOfRangeException: Index and length must refer to a location within the string. (Parameter 'length')
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at FsAutoComplete.Lsp.TextDocumentCompletion@659.Invoke(Unit unitVar) in D:\Programowanie\ionide\paket-files\github.com\fsharp\FsAutoComplete\src\FsAutoComplete\FsAutoComplete.Lsp.fs:line 672
+   at Microsoft.FSharp.Control.AsyncPrimitives.CallThenInvoke[T,TResult](AsyncActivation`1 ctxt, TResult result1, FSharpFunc`2 part2) in F:\workspace\_work\1\s\src\fsharp\FSharp.Core\async.fs:line 398
+   at Microsoft.FSharp.Control.Trampoline.Execute(FSharpFunc`2 firstAction) in F:\workspace\_work\1\s\src\fsharp\FSharp.Core\async.fs:line 109
+  Code: -32603 
+[Error - 8:09:58 PM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 8:10:38 PM] Request textDocument/hover failed.
+  Message: Cannot find ident for tooltip
+  Code: -32603 
+[Error - 8:10:39 PM] Request textDocument/hover failed.
+  Message: Cannot find ident for tooltip
+  Code: -32603 
+[Error - 8:10:39 PM] Request textDocument/hover failed.
+  Message: Cannot find ident for tooltip
+  Code: -32603 
+[Error - 8:11:03 PM] Request textDocument/hover failed.
+  Message: Cannot find ident for tooltip
+  Code: -32603 
+[Error - 8:11:04 PM] Request textDocument/hover failed.
+  Message: Cannot find ident for tooltip
+  Code: -32603 
+[Error - 8:11:05 PM] Request textDocument/hover failed.
+  Message: Cannot find ident for tooltip
+  Code: -32603 
+[Error - 8:11:06 PM] Request textDocument/hover failed.
+  Message: Cannot find ident for tooltip
+  Code: -32603 
+[Error - 8:11:06 PM] Request textDocument/hover failed.
+  Message: Cannot find ident for tooltip
+  Code: -32603 
+[Error - 8:11:06 PM] Request textDocument/hover failed.
+  Message: Cannot find ident for tooltip
+  Code: -32603 
+[Error - 8:11:07 PM] Request textDocument/hover failed.
+  Message: Cannot find ident for tooltip
+  Code: -32603 
+[Error - 8:11:10 PM] Request textDocument/hover failed.
+  Message: Cannot find ident for tooltip
+  Code: -32603 
+[Error - 8:11:11 PM] Request textDocument/hover failed.
+  Message: Cannot find ident for tooltip
+  Code: -32603 
+[Error - 8:11:11 PM] Request textDocument/hover failed.
+  Message: Cannot find ident for tooltip
+  Code: -32603 
+[Error - 8:11:12 PM] Request textDocument/hover failed.
+  Message: Cannot find ident for tooltip
+  Code: -32603 
+[Error - 8:11:13 PM] Request textDocument/hover failed.
+  Message: Cannot find ident for tooltip
+  Code: -32603 
+[Error - 8:11:13 PM] Request textDocument/hover failed.
+  Message: Cannot find ident for tooltip
+  Code: -32603 
+[Error - 8:11:14 PM] Request textDocument/hover failed.
+  Message: Cannot find ident for tooltip
+  Code: -32603 
+[Error - 8:11:16 PM] Request textDocument/hover failed.
+  Message: Cannot find ident for tooltip
+  Code: -32603 
+[Error - 8:11:17 PM] Request textDocument/hover failed.
+  Message: Cannot find ident for tooltip
+  Code: -32603 
+[Error - 8:11:19 PM] Request textDocument/hover failed.
+  Message: No tooltip information
+  Code: -32603 
+[Error - 8:11:20 PM] Request textDocument/hover failed.
+  Message: Cannot find ident for tooltip
+  Code: -32603 
+[Error - 8:11:23 PM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 8:12:22 PM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 8:12:35 PM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 8:12:35 PM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 8:12:36 PM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 8:12:36 PM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 8:12:37 PM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 8:12:43 PM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 8:12:43 PM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 8:12:43 PM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 8:12:43 PM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 8:12:43 PM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 8:12:44 PM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 8:12:46 PM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 8:12:46 PM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[20:12:46.816 ERR] [LSP] PositionHandler - Getting file checker options for /home/torerling/exercism/fsharp/list-ops/ListOps.fs failed
+[Error - 8:12:46 PM] Request textDocument/documentHighlight failed.
+  Message: Position is out of range
+  Code: -32603 
+[Error - 8:12:52 PM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 8:12:53 PM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 8:12:53 PM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 8:12:54 PM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 8:12:54 PM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 8:12:54 PM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[20:12:54.357 ERR] [LSP] PositionHandler - Getting file checker options for /home/torerling/exercism/fsharp/list-ops/ListOps.fs failed
+[Error - 8:12:54 PM] Request textDocument/documentHighlight failed.
+  Message: Position is out of range
+  Code: -32603 
+[Error - 8:12:55 PM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 8:12:55 PM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 8:12:55 PM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 8:12:56 PM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 8:12:56 PM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 8:12:56 PM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 8:12:57 PM] Request textDocument/documentHighlight failed.
+  Message: No ident at this location
+  Code: -32603 
+[Error - 8:12:57 PM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 8:12:57 PM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 8:12:58 PM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 8:12:58 PM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 8:12:58 PM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 8:12:58 PM] Request textDocument/documentHighlight failed.
+  Message: No ident at this location
+  Code: -32603 
+[20:12:59.159 ERR] [LSP] PositionHandler - Failed during child operation on file /home/torerling/exercism/fsharp/list-ops/ListOps.fs
+System.Collections.Generic.KeyNotFoundException: An index satisfying the predicate was not found in the collection.
+   at Microsoft.FSharp.Collections.SeqModule.loop@913-21[T](FSharpFunc`2 predicate, IEnumerator`1 ie, Int32 i) in F:\workspace\_work\1\s\src\fsharp\FSharp.Core\seq.fs:line 919
+   at Microsoft.FSharp.Collections.SeqModule.FindIndex[T](FSharpFunc`2 predicate, IEnumerable`1 source) in F:\workspace\_work\1\s\src\fsharp\FSharp.Core\seq.fs:line 920
+   at FsAutoComplete.Lsp.TextDocumentSignatureHelp@760-3.Invoke(CoreResponse`1 _arg21) in D:\Programowanie\ionide\paket-files\github.com\fsharp\FsAutoComplete\src\FsAutoComplete\FsAutoComplete.Lsp.fs:line 778
+   at Microsoft.FSharp.Control.AsyncPrimitives.CallThenInvokeNoHijackCheck[a,b](AsyncActivation`1 ctxt, FSharpFunc`2 userCode, b result1) in F:\workspace\_work\1\s\src\fsharp\FSharp.Core\async.fs:line 417
+   at FsAutoComplete.Utils.Async.Map@103-2.Invoke(AsyncActivation`1 ctxt) in D:\Programowanie\ionide\paket-files\github.com\fsharp\FsAutoComplete\src\FsAutoComplete.Core\Utils.fs:line 103
+   at Microsoft.FSharp.Control.Trampoline.Execute(FSharpFunc`2 firstAction) in F:\workspace\_work\1\s\src\fsharp\FSharp.Core\async.fs:line 109
+[Error - 8:12:59 PM] Request textDocument/signatureHelp failed.
+  Message: An index satisfying the predicate was not found in the collection.
+  Code: -32603 
+[20:12:59.186 ERR] [LSP] PositionHandler - Failed during child operation on file /home/torerling/exercism/fsharp/list-ops/ListOps.fs
+System.Collections.Generic.KeyNotFoundException: An index satisfying the predicate was not found in the collection.
+   at Microsoft.FSharp.Collections.SeqModule.loop@913-21[T](FSharpFunc`2 predicate, IEnumerator`1 ie, Int32 i) in F:\workspace\_work\1\s\src\fsharp\FSharp.Core\seq.fs:line 919
+   at Microsoft.FSharp.Collections.SeqModule.FindIndex[T](FSharpFunc`2 predicate, IEnumerable`1 source) in F:\workspace\_work\1\s\src\fsharp\FSharp.Core\seq.fs:line 920
+   at FsAutoComplete.Lsp.TextDocumentSignatureHelp@760-3.Invoke(CoreResponse`1 _arg21) in D:\Programowanie\ionide\paket-files\github.com\fsharp\FsAutoComplete\src\FsAutoComplete\FsAutoComplete.Lsp.fs:line 778
+   at Microsoft.FSharp.Control.AsyncPrimitives.CallThenInvokeNoHijackCheck[a,b](AsyncActivation`1 ctxt, FSharpFunc`2 userCode, b result1) in F:\workspace\_work\1\s\src\fsharp\FSharp.Core\async.fs:line 417
+   at FsAutoComplete.Utils.Async.Map@103-2.Invoke(AsyncActivation`1 ctxt) in D:\Programowanie\ionide\paket-files\github.com\fsharp\FsAutoComplete\src\FsAutoComplete.Core\Utils.fs:line 103
+   at Microsoft.FSharp.Control.Trampoline.Execute(FSharpFunc`2 firstAction) in F:\workspace\_work\1\s\src\fsharp\FSharp.Core\async.fs:line 109
+[Error - 8:12:59 PM] Request textDocument/signatureHelp failed.
+  Message: An index satisfying the predicate was not found in the collection.
+  Code: -32603 
+[Error - 8:12:59 PM] Request textDocument/signatureHelp failed.
+  Message: An index satisfying the predicate was not found in the collection.
+  Code: -32603 
+[20:12:59.210 ERR] [LSP] PositionHandler - Failed during child operation on file /home/torerling/exercism/fsharp/list-ops/ListOps.fs
+System.Collections.Generic.KeyNotFoundException: An index satisfying the predicate was not found in the collection.
+   at Microsoft.FSharp.Collections.SeqModule.loop@913-21[T](FSharpFunc`2 predicate, IEnumerator`1 ie, Int32 i) in F:\workspace\_work\1\s\src\fsharp\FSharp.Core\seq.fs:line 919
+   at Microsoft.FSharp.Collections.SeqModule.FindIndex[T](FSharpFunc`2 predicate, IEnumerable`1 source) in F:\workspace\_work\1\s\src\fsharp\FSharp.Core\seq.fs:line 920
+   at FsAutoComplete.Lsp.TextDocumentSignatureHelp@760-3.Invoke(CoreResponse`1 _arg21) in D:\Programowanie\ionide\paket-files\github.com\fsharp\FsAutoComplete\src\FsAutoComplete\FsAutoComplete.Lsp.fs:line 778
+   at Microsoft.FSharp.Control.AsyncPrimitives.CallThenInvokeNoHijackCheck[a,b](AsyncActivation`1 ctxt, FSharpFunc`2 userCode, b result1) in F:\workspace\_work\1\s\src\fsharp\FSharp.Core\async.fs:line 417
+   at FsAutoComplete.Utils.Async.Map@103-2.Invoke(AsyncActivation`1 ctxt) in D:\Programowanie\ionide\paket-files\github.com\fsharp\FsAutoComplete\src\FsAutoComplete.Core\Utils.fs:line 103
+   at Microsoft.FSharp.Control.Trampoline.Execute(FSharpFunc`2 firstAction) in F:\workspace\_work\1\s\src\fsharp\FSharp.Core\async.fs:line 109
+[Error - 8:12:59 PM] Request textDocument/signatureHelp failed.
+  Message: An index satisfying the predicate was not found in the collection.
+  Code: -32603 
+[20:12:59.242 ERR] [LSP] PositionHandler - Failed during child operation on file /home/torerling/exercism/fsharp/list-ops/ListOps.fs
+System.Collections.Generic.KeyNotFoundException: An index satisfying the predicate was not found in the collection.
+   at Microsoft.FSharp.Collections.SeqModule.loop@913-21[T](FSharpFunc`2 predicate, IEnumerator`1 ie, Int32 i) in F:\workspace\_work\1\s\src\fsharp\FSharp.Core\seq.fs:line 919
+   at Microsoft.FSharp.Collections.SeqModule.FindIndex[T](FSharpFunc`2 predicate, IEnumerable`1 source) in F:\workspace\_work\1\s\src\fsharp\FSharp.Core\seq.fs:line 920
+   at FsAutoComplete.Lsp.TextDocumentSignatureHelp@760-3.Invoke(CoreResponse`1 _arg21) in D:\Programowanie\ionide\paket-files\github.com\fsharp\FsAutoComplete\src\FsAutoComplete\FsAutoComplete.Lsp.fs:line 778
+   at Microsoft.FSharp.Control.AsyncPrimitives.CallThenInvokeNoHijackCheck[a,b](AsyncActivation`1 ctxt, FSharpFunc`2 userCode, b result1) in F:\workspace\_work\1\s\src\fsharp\FSharp.Core\async.fs:line 417
+   at FsAutoComplete.Utils.Async.Map@103-2.Invoke(AsyncActivation`1 ctxt) in D:\Programowanie\ionide\paket-files\github.com\fsharp\FsAutoComplete\src\FsAutoComplete.Core\Utils.fs:line 103
+   at Microsoft.FSharp.Control.Trampoline.Execute(FSharpFunc`2 firstAction) in F:\workspace\_work\1\s\src\fsharp\FSharp.Core\async.fs:line 109
+[Error - 8:12:59 PM] Request textDocument/signatureHelp failed.
+  Message: An index satisfying the predicate was not found in the collection.
+  Code: -32603 
+[20:12:59.262 ERR] [LSP] PositionHandler - Failed during child operation on file /home/torerling/exercism/fsharp/list-ops/ListOps.fs
+System.Collections.Generic.KeyNotFoundException: An index satisfying the predicate was not found in the collection.
+   at Microsoft.FSharp.Collections.SeqModule.loop@913-21[T](FSharpFunc`2 predicate, IEnumerator`1 ie, Int32 i) in F:\workspace\_work\1\s\src\fsharp\FSharp.Core\seq.fs:line 919
+   at Microsoft.FSharp.Collections.SeqModule.FindIndex[T](FSharpFunc`2 predicate, IEnumerable`1 source) in F:\workspace\_work\1\s\src\fsharp\FSharp.Core\seq.fs:line 920
+   at FsAutoComplete.Lsp.TextDocumentSignatureHelp@760-3.Invoke(CoreResponse`1 _arg21) in D:\Programowanie\ionide\paket-files\github.com\fsharp\FsAutoComplete\src\FsAutoComplete\FsAutoComplete.Lsp.fs:line 778
+   at Microsoft.FSharp.Control.AsyncPrimitives.CallThenInvokeNoHijackCheck[a,b](AsyncActivation`1 ctxt, FSharpFunc`2 userCode, b result1) in F:\workspace\_work\1\s\src\fsharp\FSharp.Core\async.fs:line 417
+   at FsAutoComplete.Utils.Async.Map@103-2.Invoke(AsyncActivation`1 ctxt) in D:\Programowanie\ionide\paket-files\github.com\fsharp\FsAutoComplete\src\FsAutoComplete.Core\Utils.fs:line 103
+   at Microsoft.FSharp.Control.Trampoline.Execute(FSharpFunc`2 firstAction) in F:\workspace\_work\1\s\src\fsharp\FSharp.Core\async.fs:line 109
+[Error - 8:12:59 PM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 8:12:59 PM] Request textDocument/documentHighlight failed.
+  Message: No ident at this location
+  Code: -32603 
+[Error - 8:13:01 PM] Request textDocument/completion failed.
+  Message: System.ArgumentOutOfRangeException: Index and length must refer to a location within the string. (Parameter 'length')
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at FsAutoComplete.Lsp.TextDocumentCompletion@659.Invoke(Unit unitVar) in D:\Programowanie\ionide\paket-files\github.com\fsharp\FsAutoComplete\src\FsAutoComplete\FsAutoComplete.Lsp.fs:line 672
+   at Microsoft.FSharp.Control.AsyncPrimitives.CallThenInvoke[T,TResult](AsyncActivation`1 ctxt, TResult result1, FSharpFunc`2 part2) in F:\workspace\_work\1\s\src\fsharp\FSharp.Core\async.fs:line 398
+   at Microsoft.FSharp.Control.Trampoline.Execute(FSharpFunc`2 firstAction) in F:\workspace\_work\1\s\src\fsharp\FSharp.Core\async.fs:line 109
+  Code: -32603 
+[20:13:01.625 ERR] [LSP] PositionHandler - Getting file checker options for /home/torerling/exercism/fsharp/list-ops/ListOps.fs failed
+[Error - 8:13:01 PM] Request textDocument/documentHighlight failed.
+  Message: Position is out of range
+  Code: -32603 
+[Error - 8:13:01 PM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 8:13:06 PM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 8:13:07 PM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 8:13:07 PM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 8:13:07 PM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 8:13:07 PM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 8:13:07 PM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 8:13:08 PM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 8:13:10 PM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 8:13:11 PM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 8:13:11 PM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 8:13:11 PM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 8:13:11 PM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 8:13:11 PM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[20:13:13.892 ERR] [LSP] PositionHandler - Getting file checker options for /home/torerling/exercism/fsharp/list-ops/ListOps.fs failed
+[Error - 8:13:13 PM] Request textDocument/documentHighlight failed.
+  Message: Position is out of range
+  Code: -32603 
+[Error - 8:13:13 PM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 8:13:14 PM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 8:13:20 PM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[20:13:20.469 ERR] [LSP] PositionHandler - Getting file checker options for /home/torerling/exercism/fsharp/list-ops/ListOps.fs failed
+[Error - 8:13:20 PM] Request textDocument/documentHighlight failed.
+  Message: Position is out of range
+  Code: -32603 
+[Error - 8:13:21 PM] Request textDocument/completion failed.
+  Message: System.ArgumentOutOfRangeException: Index and length must refer to a location within the string. (Parameter 'length')
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at FsAutoComplete.Lsp.TextDocumentCompletion@659.Invoke(Unit unitVar) in D:\Programowanie\ionide\paket-files\github.com\fsharp\FsAutoComplete\src\FsAutoComplete\FsAutoComplete.Lsp.fs:line 672
+   at Microsoft.FSharp.Control.AsyncPrimitives.CallThenInvoke[T,TResult](AsyncActivation`1 ctxt, TResult result1, FSharpFunc`2 part2) in F:\workspace\_work\1\s\src\fsharp\FSharp.Core\async.fs:line 398
+   at Microsoft.FSharp.Control.Trampoline.Execute(FSharpFunc`2 firstAction) in F:\workspace\_work\1\s\src\fsharp\FSharp.Core\async.fs:line 109
+  Code: -32603 
+[Error - 8:13:21 PM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 8:13:21 PM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 8:13:22 PM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[20:13:31.716 ERR] [LSP] PositionHandler - Getting file checker options for /home/torerling/exercism/fsharp/list-ops/ListOps.fs failed
+[Error - 8:13:31 PM] Request textDocument/documentHighlight failed.
+  Message: Position is out of range
+  Code: -32603 
+[Error - 8:13:32 PM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 8:13:32 PM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 8:13:33 PM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 8:13:34 PM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 8:13:36 PM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 8:13:36 PM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 8:13:36 PM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 8:13:36 PM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 8:13:40 PM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 8:13:40 PM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 8:13:41 PM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 8:13:41 PM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 8:13:41 PM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 8:13:41 PM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 8:13:43 PM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 8:13:43 PM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 8:13:44 PM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 8:13:44 PM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 8:13:45 PM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 8:13:47 PM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 8:13:47 PM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[20:13:49.255 ERR] [LSP] PositionHandler - Getting file checker options for /home/torerling/exercism/fsharp/list-ops/ListOps.fs failed
+[20:13:49.257 ERR] [LSP] PositionHandler - Getting file checker options for /home/torerling/exercism/fsharp/list-ops/ListOps.fs failed
+[Error - 8:13:51 PM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 8:13:51 PM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 8:13:51 PM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 8:13:52 PM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 8:13:52 PM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 8:13:52 PM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 8:13:56 PM] Request textDocument/signatureHelp failed.
+  Message: Could not find parameter locations
+  Code: -32603 
+[Error - 8:13:56 PM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 8:13:56 PM] Request textDocument/documentHighlight failed.
+  Message: No ident at this location
+  Code: -32603 
+[Error - 8:13:57 PM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 8:13:58 PM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 8:13:59 PM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[20:13:59.825 ERR] [LSP] PositionHandler - Getting file checker options for /home/torerling/exercism/fsharp/list-ops/ListOps.fs failed
+[20:13:59.833 ERR] [LSP] PositionHandler - Getting file checker options for /home/torerling/exercism/fsharp/list-ops/ListOps.fs failed
+[Error - 8:14:03 PM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 8:14:05 PM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 8:14:05 PM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 8:14:05 PM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 8:14:06 PM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 8:14:06 PM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 8:14:06 PM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 8:14:07 PM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[20:14:11.927 ERR] [LSP] PositionHandler - Getting file checker options for /home/torerling/exercism/fsharp/list-ops/ListOps.fs failed
+[Error - 8:14:11 PM] Request textDocument/signatureHelp failed.
+  Message: Position is out of range
+  Code: -32603 
+[Error - 8:14:13 PM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 8:14:15 PM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 8:14:15 PM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 8:14:15 PM] Request textDocument/documentHighlight failed.
+  Message: No symbol information found
+  Code: -32603 
+[Error - 8:14:25 PM] Request textDocument/hover failed.
+  Message: Cannot find ident for tooltip
+  Code: -32603 
+[Error - 8:14:28 PM] Request textDocument/documentHighlight failed.
+  Message: No ident at this location
+  Code: -32603 
+[Error - 8:14:29 PM] Request textDocument/documentHighlight failed.
+  Message: No ident at this location
+  Code: -32603 
+[Error - 8:14:29 PM] Request textDocument/documentHighlight failed.
+  Message: No ident at this location
+  Code: -32603 
+[Error - 8:14:30 PM] Request textDocument/documentHighlight failed.
+  Message: No ident at this location
+  Code: -32603 
+[Error - 8:14:30 PM] Request textDocument/documentHighlight failed.
+  Message: No ident at this location
+  Code: -32603 
+[Error - 8:14:30 PM] Request textDocument/documentHighlight failed.
+  Message: No ident at this location
+  Code: -32603 
+[Error - 8:14:30 PM] Request textDocument/documentHighlight failed.
+  Message: No ident at this location
+  Code: -32603 
+[Error - 8:14:30 PM] Request textDocument/documentHighlight failed.
+  Message: No ident at this location
+  Code: -32603 
+[Error - 8:14:30 PM] Request textDocument/documentHighlight failed.
+  Message: No ident at this location
+  Code: -32603 
+[Error - 8:14:30 PM] Request textDocument/documentHighlight failed.
+  Message: No ident at this location
+  Code: -32603 
+[Error - 8:14:30 PM] Request textDocument/documentHighlight failed.
+  Message: No ident at this location
+  Code: -32603 
+[Error - 8:14:30 PM] Request textDocument/documentHighlight failed.
+  Message: No ident at this location
+  Code: -32603 
+[Error - 8:14:30 PM] Request textDocument/documentHighlight failed.
+  Message: No ident at this location
+  Code: -32603 
+[Error - 8:14:30 PM] Request textDocument/documentHighlight failed.
+  Message: No ident at this location
+  Code: -32603 
+[Error - 8:14:30 PM] Request textDocument/documentHighlight failed.
+  Message: No ident at this location
+  Code: -32603 
+[Error - 8:14:30 PM] Request textDocument/documentHighlight failed.
+  Message: No ident at this location
+  Code: -32603 
+[Error - 8:14:30 PM] Request textDocument/documentHighlight failed.
+  Message: No ident at this location
+  Code: -32603 
+[Error - 8:14:30 PM] Request textDocument/documentHighlight failed.
+  Message: No ident at this location
+  Code: -32603 
+[Error - 8:14:31 PM] Request textDocument/documentHighlight failed.
+  Message: No ident at this location
+  Code: -32603 
+[Error - 8:14:31 PM] Request textDocument/documentHighlight failed.
+  Message: No ident at this location
+  Code: -32603 
+[Error - 8:14:31 PM] Request textDocument/documentHighlight failed.
+  Message: No ident at this location
+  Code: -32603 
+[Error - 8:14:31 PM] Request textDocument/documentHighlight failed.
+  Message: No ident at this location
+  Code: -32603 
+[Error - 8:14:31 PM] Request textDocument/documentHighlight failed.
+  Message: No ident at this location
+  Code: -32603 
+[Error - 8:14:31 PM] Request textDocument/documentHighlight failed.
+  Message: No ident at this location
+  Code: -32603 
+[Error - 8:14:31 PM] Request textDocument/documentHighlight failed.
+  Message: No ident at this location
+  Code: -32603 
+[Error - 8:14:31 PM] Request textDocument/documentHighlight failed.
+  Message: No ident at this location
+  Code: -32603 
+[Error - 8:14:31 PM] Request textDocument/documentHighlight failed.
+  Message: No ident at this location
+  Code: -32603 
+[Error - 8:14:31 PM] Request textDocument/documentHighlight failed.
+  Message: No ident at this location
+  Code: -32603 
+[Error - 8:14:31 PM] Request textDocument/documentHighlight failed.
+  Message: No ident at this location
+  Code: -32603 
+[Error - 8:14:31 PM] Request textDocument/documentHighlight failed.
+  Message: No ident at this location
+  Code: -32603 
+[Error - 8:14:31 PM] Request textDocument/documentHighlight failed.
+  Message: No ident at this location
+  Code: -32603 
+[Error - 8:14:31 PM] Request textDocument/documentHighlight failed.
+  Message: No ident at this location
+  Code: -32603 
+[Error - 8:14:31 PM] Request textDocument/documentHighlight failed.
+  Message: No ident at this location
+  Code: -32603 
+[Error - 8:14:31 PM] Request textDocument/documentHighlight failed.
+  Message: No ident at this location
+  Code: -32603 
+[Error - 8:14:31 PM] Request textDocument/documentHighlight failed.
+  Message: No ident at this location
+  Code: -32603 
+[Error - 8:14:31 PM] Request textDocument/documentHighlight failed.
+  Message: No ident at this location
+  Code: -32603 
+[Error - 8:14:31 PM] Request textDocument/documentHighlight failed.
+  Message: No ident at this location
+  Code: -32603 
+[Error - 8:14:31 PM] Request textDocument/documentHighlight failed.
+  Message: No ident at this location
+  Code: -32603 
+[Error - 8:14:31 PM] Request textDocument/documentHighlight failed.
+  Message: No ident at this location
+  Code: -32603 
+[Error - 8:14:31 PM] Request textDocument/documentHighlight failed.
+  Message: No ident at this location
+  Code: -32603 
+[Error - 8:14:31 PM] Request textDocument/documentHighlight failed.
+  Message: No ident at this location
+  Code: -32603 
+[Error - 8:14:31 PM] Request textDocument/documentHighlight failed.
+  Message: No ident at this location
+  Code: -32603 
+[Error - 8:14:31 PM] Request textDocument/documentHighlight failed.
+  Message: No ident at this location
+  Code: -32603 
+[Error - 8:14:32 PM] Request textDocument/documentHighlight failed.
+  Message: No ident at this location
+  Code: -32603 
