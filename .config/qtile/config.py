@@ -11,7 +11,6 @@ from typing import List  # noqa: F401
 
 mod = "mod4"                                     # Sets mod key to SUPER/WINDOWS
 myTerm = "alacritty"                             # My terminal of choice
-myConfig = "/home/dt/.config/qtile/config.py"    # The Qtile config file location
 
 keys = [
          ### The essentials
@@ -50,28 +49,6 @@ keys = [
          Key(["control", "shift"], "n",
              lazy.spawn("passmenu"),
              desc='passmenu'
-             ),
-         ### Switch focus to specific monitor (out of three)
-         Key([mod], "w",
-             lazy.to_screen(0),
-             desc='Keyboard focus to monitor 1'
-             ),
-         Key([mod], "e",
-             lazy.to_screen(1),
-             desc='Keyboard focus to monitor 2'
-             ),
-         Key([mod], "r",
-             lazy.to_screen(2),
-             desc='Keyboard focus to monitor 3'
-             ),
-         ### Switch focus of monitors
-         Key([mod], "period",
-             lazy.next_screen(),
-             desc='Move focus to next monitor'
-             ),
-         Key([mod], "comma",
-             lazy.prev_screen(),
-             desc='Move focus to prev monitor'
              ),
          ### Treetab controls
          Key([mod, "control"], "k",
