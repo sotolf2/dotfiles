@@ -197,7 +197,7 @@ def init_widgets_list():
                        background = colors[0]
                        ),
               widget.GroupBox(
-                       font = "Ubuntu Bold",
+                       font = "Meslo",
                        fontsize = 9,
                        margin_y = 3,
                        margin_x = 0,
@@ -218,7 +218,7 @@ def init_widgets_list():
                        ),
               widget.Prompt(
                        prompt = prompt,
-                       font = "Ubuntu Mono",
+                       font = "Meslo",
                        padding = 10,
                        foreground = colors[3],
                        background = colors[1]
@@ -370,7 +370,7 @@ def init_widgets_list():
               ]
     return widgets_list
 
-def init_widgets_screen1():
+def init_widgets_screen1()
     widgets_screen1 = init_widgets_list()
     return widgets_screen1                       # Slicing removes unwanted widgets on Monitors 1,3
 
