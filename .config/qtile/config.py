@@ -235,7 +235,7 @@ def init_widgets_list():
                        padding = 0
                        ),
               widget.TextBox(
-                       text = '',
+                       text = '◥',
                        background = colors[0],
                        foreground = colors[5],
                        padding = 0,
@@ -255,7 +255,7 @@ def init_widgets_list():
                        padding = 5
                        ),
               widget.TextBox(
-                       text='',
+                       text='◥',
                        background = colors[5],
                        foreground = colors[4],
                        padding = 0,
@@ -269,7 +269,7 @@ def init_widgets_list():
                        background = colors[4]
                        ),
               widget.TextBox(
-                       text = '',
+                       text = '◥',
                        background = colors[4],
                        foreground = colors[5],
                        padding = 0,
@@ -289,7 +289,7 @@ def init_widgets_list():
                        padding = 5
                        ),
               widget.TextBox(
-                       text='',
+                       text='◥',
                        background = colors[5],
                        foreground = colors[4],
                        padding = 0,
@@ -303,7 +303,7 @@ def init_widgets_list():
                        padding = 5
                        ),
               widget.TextBox(
-                       text = '',
+                       text = '◥',
                        background = colors[4],
                        foreground = colors[5],
                        padding = 0,
@@ -321,7 +321,7 @@ def init_widgets_list():
                        padding = 5
                        ),
               widget.TextBox(
-                       text = '',
+                       text = '◥',
                        background = colors[5],
                        foreground = colors[4],
                        padding = 0,
@@ -335,7 +335,7 @@ def init_widgets_list():
                        scale = 0.7
                        ),
               widget.TextBox(
-                       text = '',
+                       text = '◥',
                        background = colors[4],
                        foreground = colors[5],
                        padding = 0,
