@@ -50,9 +50,13 @@ keys = [
              lazy.spawn("passmenu"),
              desc='passmenu'
              ),
-         Key(["control", "shift"], "s",
-             lazy.spawn("dmenu-scrot"),
-             desc='passmenu'
+         Key([mod, "shift"], "s",
+             lazy.spawn("sh /home/torerling/bin/dmenu-scrot"),
+             desc='srotmenu'
+             ),
+         Key([mod, "shift"], "l",
+             lazy.spawn("betterlockscreen -l blur"),
+             desc='lock screen'
              ),
          ### Treetab controls
          Key([mod, "control"], "k",
