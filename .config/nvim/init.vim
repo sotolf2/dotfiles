@@ -88,6 +88,7 @@ Plug 'autozimu/LanguageClient-neovim', {
     \ 'do': 'bash install.sh',
     \ }
 Plug 'frazrepo/vim-rainbow'
+Plug 'ap/vim-css-color'
 Plug 'itchyny/lightline.vim'
 Plug 'jiangmiao/auto-pairs'
 Plug 'ionide/Ionide-vim'
