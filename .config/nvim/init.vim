@@ -107,6 +107,11 @@ call plug#end()
 " Plugin section end
 "
 
+"make lightline stick out less
+let g:lightline = {
+      \ 'colorscheme': 'nord',
+      \ }
+
 " I have no clue why this has to be in the end,
 " but it doesn't like being farther up
 colorscheme nord
