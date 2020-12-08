@@ -171,11 +171,11 @@ layouts = [
 
 colors = [["#282828", "#282828"], # panel background
           ["#434758", "#434758"], # background for current screen tab
-          ["#ebdbb2", "#ebdbb2"], # font color for group names
-          ["#ff5555", "#ff5555"], # border line color for current tab
-          ["#689d6a", "#689d6a"], # border line color for other tab and odd widgets
-          ["#458588", "#458588"], # color for the even widgets
-          ["#bdae93", "#bdae93"]] # window name
+          ["#e5e9f0", "#e5e9f0"], # font color for group names
+          ["#b29e75", "#b29e75"], # border line color for current tab
+          ["#68809a", "#68809a"], # border line color for other tab and odd widgets
+          ["#6d96a5", "#6d96a5"], # color for the even widgets
+          ["#8c738c", "#8c738c"]] # window name
 
 prompt = "{0}@{1}: ".format(os.environ["USER"], socket.gethostname())
 
@@ -370,7 +370,7 @@ def init_widgets_list():
               ]
     return widgets_list
 
-def init_widgets_screen1()
+def init_widgets_screen1():
     widgets_screen1 = init_widgets_list()
     return widgets_screen1                       # Slicing removes unwanted widgets on Monitors 1,3
 

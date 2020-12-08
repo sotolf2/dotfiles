@@ -109,4 +109,4 @@ call plug#end()
 
 " I have no clue why this has to be in the end,
 " but it doesn't like being farther up
-colorscheme gruvbox
+colorscheme nord
