@@ -262,7 +262,7 @@ c.colors.hints.fg = base00
 
 # Background color for hints. Note that you can use a `rgba(...)` value
 # for transparency.
-c.colors.hints.bg = base0A
+c.colors.hints.bg = base0C
 
 # Font color for the matched part of hints.
 c.colors.hints.match.fg = base05
