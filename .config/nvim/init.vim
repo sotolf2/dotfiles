@@ -76,6 +76,7 @@ call plug#begin('~/.vim/plugged')
 " Plugin list:
 "
 
+Plug 'vimwiki/vimwiki'
 Plug 'tpope/vim-sensible'
 Plug 'junegunn/seoul256.vim'
 Plug 'junegunn/fzf'
