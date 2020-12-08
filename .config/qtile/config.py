@@ -50,6 +50,10 @@ keys = [
              lazy.spawn("passmenu"),
              desc='passmenu'
              ),
+         Key(["control", "shift"], "s",
+             lazy.spawn("dmenu-scrot"),
+             desc='passmenu'
+             ),
          ### Treetab controls
          Key([mod, "control"], "k",
              lazy.layout.section_up(),
