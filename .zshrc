@@ -55,6 +55,8 @@ alias vim="nvim"
 alias ls="exa"
 alias weather="curl wttr.in"
 alias conf="dotbare"
+alias mixer="pacmixer"
+alias alsamixer="pacmixer"
 
 # start with a clear since the colemak setting makes this (evdev error) appear the whole time
 clear
