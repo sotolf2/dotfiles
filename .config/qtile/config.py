@@ -305,10 +305,11 @@ def init_widgets_list():
                        ),
               widget.Net(
                        interface = "wlp2s0",
-                       format = '{down}↓↑{up}',
+                       format = '{down:^9}↓↑{up:^9}',
                        foreground = colors[2],
                        background = colors[4],
-                       padding = 5
+                       padding = 5,
+                       fontsize = 9
                        ),
               widget.TextBox(
                        text = '◥',
