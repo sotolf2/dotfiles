@@ -303,14 +303,27 @@ def init_widgets_list():
                        padding = 0,
                        fontsize = 37
                        ),
-              widget.Net(
-                       interface = "wlp2s0",
-                       format = '{down:^9}↓↑{up:^9}',
-                       foreground = colors[2],
-                       background = colors[4],
-                       padding = 5,
-                       fontsize = 9
-                       ),
+              #widget.Net(
+              #         interface = "wlp2s0",
+              #         format = '{down:<9}↓↑{up:<9}',
+              #         font = 'Meslo',
+              #         foreground = colors[2],
+              #         background = colors[4],
+              #         padding = 5,
+              #         fontsize = 9
+              #         ),
+              widget.NetGraph(
+                      foreground = colors[2],
+                      background = colors[4],
+                      padding = 5,
+                      type = 'line',
+                      border_width = 0,
+                      line_width = 2,
+                      graph_color = colors[2],
+                      samples = 100,
+                      border_color = colors[4],
+                      fill_color = colors[4]
+                      ),
               widget.TextBox(
                        text = '◥',
                        background = colors[4],
