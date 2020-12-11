@@ -29,10 +29,6 @@ set ruler	        " show row and column ruler information
 set undolevels=1000	" number of undo levels
 set backspace=indent,eol,start	" backspace behaviour
 
-syntax enable
-filetype plugin on  "autoload plugins for files
-filetype indent on
-
 " Make the terminal vim nice when we run in x
 if has("gui_running")
     set guioptions-=T
@@ -41,7 +37,10 @@ if has("gui_running")
     set guitablabel=%M\ %t
 endif
 
-" shortcut to get rid of search highlights, always forget that this one is here
+" Set standard clipboard as the vim clipboard
+set clipboard=unnamedplus
+"
+" " shortcut to get rid of search highlights, always forget that this one is here
 map <silent> <leader><cr> :noh<cr>
 " Rewrite the file as sudo, useful because I forget to sudo vim first
 command! W execute 'w !sudo tee % > /dev/null' <bar> edit!
@@ -75,12 +74,21 @@ call plug#begin('~/.vim/plugged')
 "
 " Plugin list:
 "
-
+" Rust support
+Plug 'rust-lang/rust.vim'
+" Use Tab for walking completions
 Plug 'ervandew/supertab'
+" Personal wiki for vim
 Plug 'vimwiki/vimwiki'
+" a set of sensible vim defaults
 Plug 'tpope/vim-sensible'
+" Linting with languageserver
+Plug 'dense-analysis/ale'
+" Colourscheme
 Plug 'junegunn/seoul256.vim'
+" Fuzzy search, always good
 Plug 'junegunn/fzf'
+" Support for F#
 Plug 'ionide/Ionide-vim', {
       \ 'do':  'make fsautocomplete',
       \}
@@ -88,21 +96,29 @@ Plug 'autozimu/LanguageClient-neovim', {
     \ 'branch': 'next',
     \ 'do': 'bash install.sh',
     \ }
-Plug 'frazrepo/vim-rainbow'
-Plug 'ap/vim-css-color'
-Plug 'itchyny/lightline.vim'
-Plug 'jiangmiao/auto-pairs'
 Plug 'ionide/Ionide-vim'
+" Rainbow brackets for easier navigation
+Plug 'frazrepo/vim-rainbow'
+" Show css colourtags in their color
+Plug 'ap/vim-css-color'
+" A nicer bottom bar for vim
+Plug 'itchyny/lightline.vim'
+" Automatically insert closing pairs brackets etc.
+Plug 'jiangmiao/auto-pairs'
+" Display function signatures in command line
 Plug 'Shougo/echodoc.vim'
+" Some nice colorschemes for vim
 Plug 'rafi/awesome-vim-colorschemes'
+" nice functions for wrapping text objects
 Plug 'tpope/vim-surround'
-if has('nvim')
-  Plug 'Shougo/deoplete.nvim', { 'do': ':UpdateRemotePlugins' }
-else
-  Plug 'Shougo/deoplete.nvim'
-  Plug 'roxma/nvim-yarp'
-  Plug 'roxma/vim-hug-neovim-rpc'
-endif
+" completions
+Plug 'neoclide/coc.nvim', {'branch': 'release'}
+" text objects for python
+Plug 'jeetsukumaran/vim-pythonsense'
+" LSP symbol browser
+Plug 'liuchengxu/vista.vim'
+" Eysy commenting
+Plug 'tpope/vim-commentary'
 call plug#end()
 
 " 
@@ -114,6 +130,12 @@ let g:lightline = {
       \ 'colorscheme': 'nord',
       \ }
 
+" Set filestuff after loading plugins
+syntax enable
+filetype plugin on  "autoload plugins for files
+filetype indent on
+
 " I have no clue why this has to be in the end,
 " but it doesn't like being farther up
 colorscheme nord
+
