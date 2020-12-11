@@ -124,6 +124,8 @@ call plug#end()
 " 
 " Plugin section end
 "
+" turn supertab completion around
+let g:SuperTabDefaultCompletionType = "<c-n>"
 
 "make lightline stick out less
 let g:lightline = {
