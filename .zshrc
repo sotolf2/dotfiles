@@ -49,6 +49,7 @@ export EDITOR='nvim'
 # path extensions
 export PATH=~/.local/lib/python3.8/site-packages/:$PATH
 export PATH=~/bin/:$PATH
+export PATH=~/.cargo/bin:$PATH
 
 # aliases
 alias vim="nvim"
