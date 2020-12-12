@@ -131,6 +131,16 @@ c.hints.chars = 'arstneo'
 #   - in-mode: Show the statusbar when in modes other than normal mode.
 c.statusbar.show = 'in-mode'
 
+# set up searchengines
+c.url.searchengines = {
+        'DEFAULT': 'https://searx.fmac.xyz/?q={}',
+        'ddg': 'https://duckduckgo.com/?q={}',
+        'aw': 'https://wiki.archlinux.org/index.php/{}'
+}
+
+#startbage to searx
+c.url.start_pages = 'https://searx.fmac.xyz'
+
 # When to show the tab bar.
 # Type: String
 # Valid values:

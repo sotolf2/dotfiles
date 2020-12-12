@@ -28,8 +28,9 @@ set noswapfile          " don't need swapfiles for vim
 set ruler	        " show row and column ruler information
 set undolevels=1000	" number of undo levels
 set backspace=indent,eol,start	" backspace behaviour
+set splitright          " Split on right side by default
 
-" Make the terminal vim nice when we run in x
+"Make the terminal vim nice when we run in x
 if has("gui_running")
     set guioptions-=T
     set guioptions-=e
