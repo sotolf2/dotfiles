@@ -35,7 +35,7 @@ plugins=(
         zsh-vim-mode
 	fzf
         dotbare
-        powerlevel10k
+        #powerlevel10k
 )
 
 source $ZSH/oh-my-zsh.sh
@@ -60,7 +60,7 @@ alias mixer="pacmixer"
 alias alsamixer="pacmixer"
 
 # start with a clear since the colemak setting makes this (evdev error) appear the whole time
-clear
+#clear
 
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
