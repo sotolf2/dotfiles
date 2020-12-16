@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+
+package="$(paru -Slq | fzf)"
+
+if [[ -n $package ]]
+then
+  paru -S $package
+fi

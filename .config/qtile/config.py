@@ -51,7 +51,7 @@ keys = [
              desc='passmenu'
              ),
          Key([mod, "shift"], "s",
-             lazy.spawn("sh /home/torerling/bin/dmenu-scrot"),
+             lazy.spawn("sh /home/torerling/bin/rofi-scrot"),
              desc='scrotmenu'
              ),
          Key([mod, "shift"], "l",
