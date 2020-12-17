@@ -45,6 +45,8 @@ setxkbmap -model 'pc105caw-sl' -layout 'no(cmk_ed_us)' -option 'misc:extend,lv5:
 
 # use neovim as editor
 export EDITOR='nvim'
+export VISUAL='nvim'
+export TERM='alacritty'
 
 # path extensions
 export PATH=~/.local/lib/python3.8/site-packages/:$PATH
@@ -53,14 +55,22 @@ export PATH=~/.cargo/bin:$PATH
 
 # aliases
 alias vim="nvim"
+
 alias ls="exa -l"
 alias weather="curl wttr.in"
 alias conf="dotbare"
 alias mixer="pacmixer"
 alias alsamixer="pacmixer"
 
+# make "dangerous operations" interactive
+alias rm="rm -i"
+alias mv="mv -i"
+alias cp="cp -i"
+
 # start with a clear since the colemak setting makes this (evdev error) appear the whole time
 #clear
 
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
+
+source /home/torerling/.config/broot/launcher/bash/br

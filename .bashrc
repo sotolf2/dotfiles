@@ -23,3 +23,5 @@ fi
 #then
 #	exec fish
 #fi
+
+source /home/torerling/.config/broot/launcher/bash/br
