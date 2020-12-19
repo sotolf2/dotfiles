@@ -55,6 +55,12 @@ let g:deoplete#enable_at_startup = 1
 tnoremap <Esc> <C-\><C-n>
 " set the leader key to something comfortable
 let mapleader = ","
+" setup some shortcuts for FZF
+nnoremap <leader>f :Files<CR>
+nnoremap <leader>b :Buffers<CR>
+nnoremap <leader>g :Lines<CR>
+nnoremap <leader>r :Rg<CR>
+
 
 " Delete trailing white space on save, don't want that in our files
 fun! CleanExtraSpaces()
@@ -88,7 +94,7 @@ Plug 'dense-analysis/ale'
 " Colourscheme
 Plug 'junegunn/seoul256.vim'
 " Fuzzy search, always good
-Plug 'junegunn/fzf'
+Plug 'junegunn/fzf.vim'
 " Support for F#
 Plug 'ionide/Ionide-vim', {
       \ 'do':  'make fsautocomplete',
