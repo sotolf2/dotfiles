@@ -64,7 +64,7 @@ alias mixer="pacmixer"
 alias alsamixer="pacmixer"
 
 # make "dangerous operations" interactive
-alias rm="rm -i"
+#alias rm="rm -i"
 alias mv="mv -i"
 alias cp="cp -i"
 
