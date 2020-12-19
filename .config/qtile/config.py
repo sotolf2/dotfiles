@@ -139,8 +139,8 @@ keys = [
 ]
 
 group_names = [("www", {'layout': 'monadtall'}),
-               ("sys", {'layout': 'monadtall'}),
                ("dev", {'layout': 'monadtall'}),
+               ("sys", {'layout': 'monadtall'}),
                ("doc", {'layout': 'monadtall'}),
                ("misc", {'layout': 'monadtall'}),
                ("chat", {'layout': 'monadtall'}),
