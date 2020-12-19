@@ -56,6 +56,7 @@ export PATH=~/.cargo/bin:$PATH
 # aliases
 alias vim="nvim"
 
+alias cat="bat"
 alias ls="exa -l"
 alias weather="curl wttr.in"
 alias conf="dotbare"
