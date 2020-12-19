@@ -124,8 +124,10 @@ Plug 'neoclide/coc.nvim', {'branch': 'release'}
 Plug 'jeetsukumaran/vim-pythonsense'
 " LSP symbol browser
 Plug 'liuchengxu/vista.vim'
-" Eysy commenting
+" Easy commenting
 Plug 'tpope/vim-commentary'
+" Vim sneak for jumping around
+Plug 'justinmk/vim-sneak'
 call plug#end()
 
 " 
