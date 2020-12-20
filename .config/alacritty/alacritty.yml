@@ -49,10 +49,10 @@ colors:
 font:
   normal:
       #family: Iosevka Nerd Font Mono
-      #family: Hack
+      family: Hack
       #family: inconsolata
       #family: mononoki nerd font
-      family: Meslo LG S
+      #family: Meslo LG S
   size: 9.0
 background_opacity: 0.96
 
