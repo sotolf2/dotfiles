@@ -8,6 +8,9 @@ env:
 
 window:
   title: Alacritty
+  padding:
+    x: 7
+    y: 10
 
 background_opacity: 0.93
 
@@ -54,7 +57,6 @@ font:
       #family: mononoki nerd font
       #family: Meslo LG S
   size: 9.0
-background_opacity: 0.96
 
 colors:
   primary:
