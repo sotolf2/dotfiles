@@ -8,7 +8,7 @@ hc() {
 
 hc emit_hook reload
 
-xsetroot -solid '#5A8E3A'
+xsetroot -solid '#3b4252'
 variety &
 unclutter &
 picom &
@@ -24,7 +24,7 @@ Mod=Mod4   # Use the super key as the main modifier
 hc keybind $Mod-Shift-q close
 hc keybind $Mod-Shift-r reload
 hc keybind $Mod-Shift-c quit
-hc keybind $Mod-Return spawn "alacritty" # use your $TERMINAL with xterm as fallback
+hc keybind $Mod-Return spawn "st" # use your $TERMINAL with xterm as fallback
 hc keybind $Mod-Shift-Return spawn "dmenu_run"
 
 # basic movement in tiling and floating mode
@@ -114,34 +114,35 @@ hc keybind $Mod-i jumpto urgent
 # theme
 hc attr theme.tiling.reset 1
 hc attr theme.floating.reset 1
-hc set frame_border_active_color '#222222'
-hc set frame_border_normal_color '#101010'
-hc set frame_bg_normal_color '#565656'
-hc set frame_bg_active_color '#345F0C'
+hc set frame_border_active_color '#88c0d0'
+hc set frame_border_normal_color '#3b4252'
+hc set frame_bg_normal_color '#2e3440'
+hc set frame_bg_active_color '#8fbcbb'
 hc set frame_border_width 1
 hc set always_show_frame off
 hc set frame_bg_transparent on
 hc set frame_transparent_width 1
 hc set frame_gap 1
 
-hc attr theme.active.color '#9fbc00'
-hc attr theme.normal.color '#454545'
-hc attr theme.urgent.color orange
+hc attr theme.active.color '#ebcb8b'
+hc attr theme.normal.color '#2e3440'
+hc attr theme.urgent.color '#bf616a'
 hc attr theme.inner_width 1
 hc attr theme.inner_color black
 hc attr theme.border_width 1
 hc attr theme.floating.border_width 4
 hc attr theme.floating.outer_width 1
 hc attr theme.floating.outer_color black
-hc attr theme.active.inner_color '#3E4A00'
-hc attr theme.active.outer_color '#3E4A00'
-hc attr theme.background_color '#141414'
+hc attr theme.active.inner_color '#ebcb8b'
+hc attr theme.active.outer_color '#ebcb8b'
+hc attr theme.background_color '#2e3440'
 
 hc set window_gap 0
 hc set frame_padding 0
 hc set smart_window_surroundings off
 hc set smart_frame_surroundings on
 hc set mouse_recenter_gap 0
+hc set layout 1
 
 # rules
 hc unrule -F
@@ -166,11 +167,11 @@ hc unlock
 hc detect_monitors
 
 # find the panel
-panel=~/.config/herbstluftwm/panel.sh
-[ -x "$panel" ] || panel=/etc/xdg/herbstluftwm/panel.sh
-for monitor in $(hc list_monitors | cut -d: -f1) ; do
-    # start it on each monitor
-    "$panel" "$monitor" &
-done
-pkill polybar
-~/.config/polybar/launch.sh --hack
+#panel=~/.config/herbstluftwm/panel.sh
+#[ -x "$panel" ] || panel=/etc/xdg/herbstluftwm/panel.sh
+#for monitor in $(hc list_monitors | cut -d: -f1) ; do
+#    # start it on each monitor
+#    "$panel" "$monitor" &
+#done
+#pkill polybar
+#~/.config/polybar/launch.sh --hack
