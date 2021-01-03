@@ -49,6 +49,8 @@ floating_modifier $mod
 # start a terminal
 bindsym $mod+Return exec st
 
+bindsym $mod+y exec "~/bin/rofi-scrot"
+
 # kill focused window
 bindsym $mod+Shift+q kill
 
@@ -185,15 +187,15 @@ bindsym $mod+r mode "resize"
 #######
 
 # set primary gruvbox colorscheme colors
-set $bg #282828
-set $red #cc241d
-set $green #98971a
-set $yellow #d79921
-set $blue #458588
-set $purple #b16286
-set $aqua #689d68
-set $gray #a89984
-set $darkgray #1d2021
+set $bg #3b4252
+set $red #bf616a
+set $green #a3be8c
+set $yellow #ebcb8b
+set $blue #81a1c1
+set $purple #b48ead
+set $aqua #8fbcbb
+set $gray #d8dee9
+set $darkgray #4c566a
 
 #start of bar section
 bar {
@@ -211,6 +213,7 @@ bar {
         active_workspace     $darkgray $darkgray $yellow
         urgent_workspace     $red $red $bg
     }
+    tray_output none
 }
 #end of bar section
 
