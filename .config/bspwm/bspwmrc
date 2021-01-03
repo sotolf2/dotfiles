@@ -1,0 +1,37 @@
+#! /bin/zsh
+
+############
+# Autostarts
+############
+# set keybinding daemon
+pkill sxhkd
+sxhkd &
+# compositor is needed
+pkill picom
+picom &
+# background setter
+pkill variety
+variety &
+# hide mouspointer when not used
+pkill unclutter
+unclutter &
+
+# Workspaces
+bspc monitor -d 1 2 3 4 5 6 7 8 9
+
+bspc config border_width 2
+
+# No gaps, that's just wasted space
+bspc config window_gap 1
+
+# Ratio of main window to stack
+bspc config split_ratio 0.52
+
+# Monocle also without borders
+bspc config borderless_monocle true
+bspc config gapless_monocle true
+
+# launch new polybar
+bspwmbar &
+#~/.config/polybar/launch.sh --hack
+
