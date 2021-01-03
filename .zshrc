@@ -56,8 +56,8 @@ export PATH=~/.cargo/bin:$PATH
 # aliases
 alias vim="nvim"
 
-alias vn="variety -n 2> /dev/null"
-alias vf="variety -f 2> /dev/null"
+alias vn="tapet -n 2> /dev/null"
+alias vf="tapet -f 2> /dev/null"
 alias cat="bat"
 alias ls="exa -l"
 alias weather="curl wttr.in"

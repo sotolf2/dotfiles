@@ -1,3 +1,7 @@
+# set the keyboard map so that it doesn't bind to the wrong ones
+#
+setxkbmap -model 'pc105caw-sl' -layout 'no(cmk_ed_us)' -option 'misc:extend,lv5:caps_switch_lock,grp:shifts_toggle,compose:menu,misc:cmk_curl_dh'
+
 # Spawn terminal
 super + Return
     st
@@ -10,6 +14,16 @@ super + Escape
 super + shift + Return
     rofi -show drun
 
+# Screenshot
+super + shift + s
+    rofi-scrot
+
+# gaps
+super + shift + g
+    bspc config window_gap 20
+super + g
+    bspc config window_gap 2
+
 # Switch to desktop #
 super + {1-5}
     bspc desktop -f {1-9}
@@ -19,8 +33,11 @@ super + shift + {1-9}
     bspc node --to-desktop {1-9}
 
 # focus windows
-super + {m,n,e,i}
-    bspc node -f {north,west,east,south}
+super + {n,e}
+    bspc node -f {next.local,prev.local}
+
+super + shift + {n,e}
+    bspc node -s {next.local,prev.local}
 
 super + y
     bsp-layout set tall
@@ -34,6 +51,15 @@ super + Up
     bspc node -f north
 super + Down
     bspc node -f south
+#swap window
+super + shift + Left
+    bspc node -s west
+super + shift + Right
+    bspc node -s east
+super + shift + Up
+    bspc node -s north
+super + shift + Down
+    bspc node -s south
 
 # close current window
 super + shift + q
