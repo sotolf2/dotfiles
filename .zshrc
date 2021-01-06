@@ -22,7 +22,6 @@ COMPLETION_WAITING_DOTS="true"
 # under VCS as dirty. This makes repository status check for large repositories
 # much, much faster.
 DISABLE_UNTRACKED_FILES_DIRTY="true"
-DISABLE_AUTO_UPDATE = "true"
 
 # Use a sane date format
 HIST_STAMPS="yyyy-mm-dd"
