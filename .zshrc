@@ -22,6 +22,7 @@ COMPLETION_WAITING_DOTS="true"
 # under VCS as dirty. This makes repository status check for large repositories
 # much, much faster.
 DISABLE_UNTRACKED_FILES_DIRTY="true"
+DISABLE_AUTO_UPDATE = "true"
 
 # Use a sane date format
 HIST_STAMPS="yyyy-mm-dd"
@@ -41,7 +42,7 @@ plugins=(
 source $ZSH/oh-my-zsh.sh
 
 # set the keyboard to Colemak-CAWE (no)
-setxkbmap -model 'pc105caw-sl' -layout 'no(cmk_ed_us)' -option 'misc:extend,lv5:caps_switch_lock,grp:shifts_toggle,compose:menu,misc:cmk_curl_dh'
+#setxkbmap -model 'pc105caw-sl' -layout 'no(cmk_ed_us)' -option 'misc:extend,lv5:caps_switch_lock,grp:shifts_toggle,compose:menu,misc:cmk_curl_dh'
 
 # use neovim as editor
 export EDITOR='nvim'
@@ -77,3 +78,8 @@ alias cp="cp -i"
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
 
 source /home/torerling/.config/broot/launcher/bash/br
+
+#support for japanese input
+export GTK_IM_MODULE=fcitx
+export QT_IM_MODULE=fcitx
+export XMODIFIERS=@im=fcitx
