@@ -1,7 +1,5 @@
 # set the keyboard map so that it doesn't bind to the wrong ones
 #
-setxkbmap -model 'pc105caw-sl' -layout 'no(cmk_ed_us)' -option 'misc:extend,lv5:caps_switch_lock,grp:shifts_toggle,compose:menu,misc:cmk_curl_dh'
-
 # Spawn terminal
 super + Return
     st
@@ -18,11 +16,19 @@ super + shift + Return
 super + shift + s
     rofi-scrot
 
+# toggle workspace
+super + Tab
+    bspc desktop -f last
+
 # gaps
 super + shift + g
     bspc config window_gap 20
 super + g
     bspc config window_gap 2
+
+# toggle floating
+super + f
+    bspc node -t \~floating
 
 # Switch to desktop #
 super + {1-5}
