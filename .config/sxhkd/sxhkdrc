@@ -3,6 +3,9 @@
 # Spawn terminal
 super + Return
     st
+# Spawn alternative terminal
+super + control + Return
+    alacritty
 
 # Reload shxkd alt + Escape
 super + Escape
