@@ -2,10 +2,10 @@
 #
 # Spawn terminal
 super + Return
-    st
+    alacritty
 # Spawn alternative terminal
 super + control + Return
-    alacritty
+    st
 
 # Reload shxkd alt + Escape
 super + Escape
