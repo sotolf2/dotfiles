@@ -42,10 +42,10 @@ super + shift + {1-9}
 
 # focus windows
 super + {n,e}
-    bspc node -f {next.local,prev.local}
+    bspc node -f {next.local.window, prev.local.window}
 
 super + shift + {n,e}
-    bspc node -s {next.local,prev.local}
+    bspc node -s {next.local.window, prev.local.window}
 
 super + y
     bsp-layout set tall
