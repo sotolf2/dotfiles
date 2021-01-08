@@ -17,6 +17,9 @@ font pango:8
 
 # we don't need title bars on new windows
 new_window 1pixel
+gaps inner 5
+smart_gaps on
+#border_radius 3
 
 # This font is widely installed, provides lots of unicode glyphs, right-to-left
 # text rendering and scalability on retina/hidpi displays (thanks to pango).
