@@ -31,6 +31,12 @@ super + r
 # toggle floating
 super + f
     bspc node -t \~floating
+# toggle sticky
+super + p
+    bspc node -g sticky
+# toggle locked
+super + l
+    bspc node -g locked
 
 # Switch to desktop #
 super + {1-5}
