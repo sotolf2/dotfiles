@@ -21,13 +21,14 @@ sxhkd -m 1 &
 # Workspaces
 bspc monitor -d 1 2 3 4 5 6 7 8 9
 
-bspc config automatic_scheme alternate
+bspc config automatic_scheme longest_side
 bspc config border_width 2
 bspc config focused_border_color "#88c0d0"
 
 # No gaps, that's just wasted space
 bspc config window_gap 2
 bspc config history_aware_focus true
+bspc config single_monocle true
 
 # Ratio of main window to stack
 bspc config split_ratio 0.52
