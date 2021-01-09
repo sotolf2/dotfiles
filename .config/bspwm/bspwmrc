@@ -10,6 +10,9 @@ picom &
 # background setter
 pkill tapet
 tapet -d &
+# notifications
+pkill dunst
+dunst &
 # hide mouspointer when not used
 pkill unclutter
 unclutter &
