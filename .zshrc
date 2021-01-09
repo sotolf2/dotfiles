@@ -70,6 +70,9 @@ alias alsamixer="pacmixer"
 alias mv="mv -i"
 alias cp="cp -i"
 
+# send a notification when paru is done
+alias paru="nf paru"
+
 # start with a clear since the colemak setting makes this (evdev error) appear the whole time
 #clear
 
@@ -82,3 +85,5 @@ source /home/torerling/.config/broot/launcher/bash/br
 export GTK_IM_MODULE=fcitx
 export QT_IM_MODULE=fcitx
 export XMODIFIERS=@im=fcitx
+
+function nf() {$@ ; notify-send "Task is done :)"}
