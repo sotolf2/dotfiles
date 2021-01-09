@@ -38,8 +38,8 @@ super + f
 super + p
     bspc node -g sticky
 # toggle locked
-super + l
-    bspc node -g locked
+super + shift + l
+    bspc node -g locked && notify-send "Toggled window lock"
 
 # Switch to desktop #
 super + {1-5}
@@ -81,17 +81,17 @@ super + shift + q
 
 # Volume
 XF86AudioMute
-    sh -c "pactl set-sink-mute 0 toggle"
+    sh -c "pactl set-sink-mute 0 toggle";notify-send "Toggled mute"
 XF86AudioLowerVolume
-    sh -c "pactl set-sink-mute 0 false ; pactl set-sink-volume 0 -5%"
+    sh -c "pactl set-sink-mute 0 false ; pactl set-sink-volume 0 -5%;notify-send \"Volume down\"" 
 XF86AudioRaiseVolume
-    sh -c "pactl set-sink-mute 0 false ; pactl set-sink-volume 0 +5%"
+    sh -c "pactl set-sink-mute 0 false ; pactl set-sink-volume 0 +5%;notify-send \" Volume up\"" 
 
 #brightness
 XF86MonBrightnessDown
-    sh -c "xbacklight -dec 5"
+    sh -c "xbacklight -dec 5; notify-send \" Darker \""
 XF86MonBrightnessUp
-    sh -c "xbacklight -inc 5"
+    sh -c "xbacklight -inc 5; notify-send \" Brighter \"" 
 
 # next wallpaper
 super + control + n
