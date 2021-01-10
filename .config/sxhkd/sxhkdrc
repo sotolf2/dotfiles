@@ -42,7 +42,7 @@ super + shift + l
     bspc node -g locked && notify-send "Toggled window lock"
 
 # Switch to desktop #
-super + {1-5}
+super + {1-9}
     bspc desktop -f {1-9}
 
 # move window to desktop
@@ -71,9 +71,16 @@ super + shift + {Left, Right, Up, Down}
 super + space
     bspc node -s $(bspc query -N -n biggest.local)
 
-# equalize nodes on desktop
+# set fullscreen
 super + u
+    bspc node -t \~fullscreen
+
+# equalize nodes on desktop
+super + shift + u
     bspc node @/ -E
+
+super + b
+    polybar-msg cmd toggle
 
 # close current window
 super + shift + q

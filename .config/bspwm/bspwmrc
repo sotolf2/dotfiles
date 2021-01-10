@@ -16,6 +16,9 @@ dunst &
 # hide mouspointer when not used
 pkill unclutter
 unclutter &
+# clean fullscreen
+pkill cleanfullscreen
+~/bin/cleanfullscreen
 
 . .zshrc
 # set keybinding daemon
