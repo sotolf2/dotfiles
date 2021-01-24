@@ -133,8 +133,7 @@ c.statusbar.show = 'in-mode'
 
 # set up searchengines
 c.url.searchengines = {
-        'DEFAULT': 'https://searx.fmac.xyz/?q={}',
-        'ddg': 'https://duckduckgo.com/?q={}',
+        'DEFAULT': 'https://duckduckgo.com/?q={}',
         'aw': 'https://wiki.archlinux.org/index.php/{}'
 }
 
