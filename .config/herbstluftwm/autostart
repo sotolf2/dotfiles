@@ -9,7 +9,8 @@ hc() {
 hc emit_hook reload
 
 xsetroot -solid '#3b4252'
-variety &
+pkill tapet
+tapet -d &
 unclutter &
 picom &
 
@@ -24,7 +25,7 @@ Mod=Mod4   # Use the super key as the main modifier
 hc keybind $Mod-Shift-q close
 hc keybind $Mod-Shift-r reload
 hc keybind $Mod-Shift-c quit
-hc keybind $Mod-Return spawn "st" # use your $TERMINAL with xterm as fallback
+hc keybind $Mod-Return spawn "alacritty" # use your $TERMINAL with xterm as fallback
 hc keybind $Mod-Shift-Return spawn "dmenu_run"
 
 # basic movement in tiling and floating mode
@@ -173,5 +174,5 @@ hc detect_monitors
 #    # start it on each monitor
 #    "$panel" "$monitor" &
 #done
-#pkill polybar
-#~/.config/polybar/launch.sh --hack
+pkill polybar
+~/.config/polybar/launch.sh

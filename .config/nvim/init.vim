@@ -1,5 +1,5 @@
 "# General Settings
-set number	        " Show line numbers
+set number relativenumber      " Show relative line numbers
 set linebreak	        " Break lines at word (requires Wrap lines)
 set showbreak=+++	" Wrap-broken line prefix
 set textwidth=100	" Line wrap (number of cols)
@@ -21,6 +21,7 @@ set noerrorbells        " Get rid of annoying beeping
 set t_vb=               " Get rid of more annoying beeping
 set tm=500              " And yet more of it
 set foldcolumn=1        " Some space for folds
+set foldlevelstart=20   " Start with the first 20 fold levels open
 set encoding=utf8       " use utf8 as standard encoding
 set nobackup            " no backups that's what git is for
 set nowb                " get rid of more files that clutters
@@ -128,6 +129,11 @@ Plug 'liuchengxu/vista.vim'
 Plug 'tpope/vim-commentary'
 " Vim sneak for jumping around
 Plug 'justinmk/vim-sneak'
+" Nim syntax highligting
+Plug 'alaviss/nim.nvim'
+" Factor syntax highlighting
+Plug 'factor/factor', {'rtp': 'misc/vim'}
+
 call plug#end()
 
 " 

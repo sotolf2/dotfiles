@@ -47,7 +47,9 @@ bspc config gapless_monocle true
 pgrep bspswallow || ~/bin/bspswallow &
 
 # launch new bar
-pkill bspwmbar
+#pkill bspwmbar
 #bspwmbar &
-~/.config/polybar/launch.sh
+#~/.config/polybar/launch.sh
 
+# set mouse pointer
+xsetroot -cursor_name left_ptr

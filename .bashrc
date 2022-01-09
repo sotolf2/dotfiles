@@ -25,3 +25,11 @@ fi
 #fi
 
 source /home/torerling/.config/broot/launcher/bash/br
+
+##-> DreymaR's SetXKB.sh: Activate layout
+setxkbmap -model 'pc105caw-sl' -layout 'no(cmk_ed_us)' -option 'misc:extend,lv5:caps_switch_lock,grp:shifts_toggle,compose:menu,misc:cmk_curl_dh'
+
+
+##-> DreymaR's SetXKB.sh: Activate layout
+setxkbmap -model 'pc105caw-sl' -layout 'no(cmk_ed_us)' -option 'misc:extend,lv5:caps_switch_lock,grp:shifts_toggle,compose:menu,misc:cmk_curl_dh'
+##<- DreymaR's SetXKB.sh
