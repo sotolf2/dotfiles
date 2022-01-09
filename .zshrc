@@ -33,7 +33,6 @@ plugins=(
 	zsh-autosuggestions
 	sudo
         zsh-vim-mode
-	fzf
         dotbare
         #powerlevel10k
 )
@@ -52,6 +51,7 @@ export TERM='alacritty'
 export PATH=~/.local/lib/python3.8/site-packages/:$PATH
 export PATH=~/bin/:$PATH
 export PATH=~/.cargo/bin:$PATH
+export PATH=~/.nimble/bin:$PATH
 
 # aliases
 alias vim="nvim"
